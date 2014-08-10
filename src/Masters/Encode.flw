@@ -1,0 +1,8 @@
+fl.Open(r"/Users/pabloimpallari/Dropbox/Fonts/- Encode/a0000-p0000.vfb")
+fl.SetFontWindow(-1,  Rect(2, 627, 983, 1200), 0)
+fl.Open(r"/Users/pabloimpallari/Dropbox/Fonts/- Encode/a0000-p1000.vfb")
+fl.SetFontWindow(-1,  Rect(2, 53, 982, 624), 0)
+fl.Open(r"/Users/pabloimpallari/Dropbox/Fonts/- Encode/a1000-p0000.vfb")
+fl.SetFontWindow(-1,  Rect(1577, 53, 2560, 626), 0)
+fl.Open(r"/Users/pabloimpallari/Dropbox/Fonts/- Encode/a1000-p1000.vfb")
+fl.SetFontWindow(-1,  Rect(1578, 628, 2560, 1200), 0)

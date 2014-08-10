@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sterling.tab" format="1">
+  <advance width="480"/>
+  <outline>
+    <contour>
+      <point x="38" y="349" type="line"/>
+      <point x="148" y="349" type="line"/>
+      <point x="148" y="34" type="line"/>
+      <point x="38" y="34" type="line"/>
+      <point x="38" y="0" type="line"/>
+      <point x="430" y="0" type="line"/>
+      <point x="430" y="34" type="line"/>
+      <point x="182" y="34" type="line"/>
+      <point x="182" y="349" type="line"/>
+      <point x="355" y="349" type="line"/>
+      <point x="355" y="383" type="line"/>
+      <point x="182" y="383" type="line"/>
+      <point x="182" y="528" type="line" smooth="yes"/>
+      <point x="182" y="658"/>
+      <point x="218" y="710"/>
+      <point x="310" y="710" type="curve" smooth="yes"/>
+      <point x="343" y="710"/>
+      <point x="385" y="701"/>
+      <point x="434" y="683" type="curve"/>
+      <point x="445" y="715" type="line"/>
+      <point x="391" y="735"/>
+      <point x="347" y="744"/>
+      <point x="309" y="744" type="curve" smooth="yes"/>
+      <point x="193" y="744"/>
+      <point x="148" y="675"/>
+      <point x="148" y="528" type="curve" smooth="yes"/>
+      <point x="148" y="383" type="line"/>
+      <point x="38" y="383" type="line"/>
+    </contour>
+  </outline>
+</glyph>

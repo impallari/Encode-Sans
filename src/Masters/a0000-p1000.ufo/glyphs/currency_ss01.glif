@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="currency.ss01" format="1">
+  <advance width="607"/>
+  <outline>
+    <contour>
+      <point x="153" y="-150" type="line"/>
+      <point x="293" y="-150" type="line"/>
+      <point x="293" y="84" type="line"/>
+      <point x="153" y="82" type="line"/>
+    </contour>
+    <contour>
+      <point x="153" y="677" type="line"/>
+      <point x="293" y="681" type="line"/>
+      <point x="293" y="890" type="line"/>
+      <point x="153" y="890" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="-150" type="line"/>
+      <point x="474" y="-150" type="line"/>
+      <point x="474" y="84" type="line"/>
+      <point x="335" y="82" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="677" type="line"/>
+      <point x="474" y="681" type="line"/>
+      <point x="474" y="890" type="line"/>
+      <point x="335" y="890" type="line"/>
+    </contour>
+    <component base="B" xOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

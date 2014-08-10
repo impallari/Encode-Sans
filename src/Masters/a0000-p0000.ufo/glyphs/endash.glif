@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash" format="1">
+  <advance width="470"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="69" y="263" type="line"/>
+      <point x="401" y="263" type="line"/>
+      <point x="401" y="297" type="line"/>
+      <point x="69" y="297" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

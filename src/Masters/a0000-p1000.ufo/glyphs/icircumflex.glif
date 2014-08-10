@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icircumflex" format="1">
+  <advance width="276"/>
+  <unicode hex="00EE"/>
+  <outline>
+    <contour>
+      <point x="-16" y="606" type="line"/>
+      <point x="155" y="677" type="line"/>
+      <point x="326" y="606" type="line"/>
+      <point x="326" y="730" type="line"/>
+      <point x="156" y="801" type="line"/>
+      <point x="-16" y="730" type="line"/>
+    </contour>
+    <component base="dotlessi" xOffset="1"/>
+  </outline>
+</glyph>

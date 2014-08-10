@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I.sc" format="1">
+  <advance width="349"/>
+  <outline>
+    <contour>
+      <point x="129" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="115" y="760" type="move" name="topUC"/>
+    </contour>
+    <contour>
+      <point x="115" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="63" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="577" type="line"/>
+      <point x="63" y="577" type="line"/>
+    </contour>
+  </outline>
+</glyph>

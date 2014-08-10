@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.cap" format="1">
+  <advance width="220"/>
+  <outline>
+    <contour>
+      <point x="67" y="774" type="move" name="_topUC"/>
+    </contour>
+    <contour>
+      <point x="95" y="786" type="line"/>
+      <point x="191" y="933" type="line"/>
+      <point x="106" y="933" type="line"/>
+      <point x="32" y="791" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

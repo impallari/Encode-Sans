@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uring.sc" format="1">
+  <advance width="719"/>
+  <outline>
+    <contour>
+      <point x="360" y="-8" type="curve" smooth="yes"/>
+      <point x="557" y="-8"/>
+      <point x="638" y="66"/>
+      <point x="638" y="239" type="curve" smooth="yes"/>
+      <point x="638" y="578" type="line"/>
+      <point x="547" y="578" type="line"/>
+      <point x="547" y="237" type="line" smooth="yes"/>
+      <point x="547" y="117"/>
+      <point x="483" y="66"/>
+      <point x="360" y="66" type="curve" smooth="yes"/>
+      <point x="236" y="66"/>
+      <point x="172" y="117"/>
+      <point x="172" y="237" type="curve" smooth="yes"/>
+      <point x="172" y="578" type="line"/>
+      <point x="82" y="578" type="line"/>
+      <point x="82" y="239" type="line" smooth="yes"/>
+      <point x="82" y="66"/>
+      <point x="162" y="-8"/>
+    </contour>
+    <contour>
+      <point x="358" y="622" type="curve" smooth="yes"/>
+      <point x="422" y="622"/>
+      <point x="471" y="657"/>
+      <point x="471" y="707" type="curve" smooth="yes"/>
+      <point x="471" y="758"/>
+      <point x="422" y="795"/>
+      <point x="358" y="795" type="curve" smooth="yes"/>
+      <point x="294" y="795"/>
+      <point x="244" y="758"/>
+      <point x="244" y="707" type="curve" smooth="yes"/>
+      <point x="244" y="657"/>
+      <point x="294" y="622"/>
+    </contour>
+    <contour>
+      <point x="358" y="659" type="curve" smooth="yes"/>
+      <point x="314" y="659"/>
+      <point x="290" y="677"/>
+      <point x="290" y="707" type="curve" smooth="yes"/>
+      <point x="290" y="739"/>
+      <point x="314" y="757"/>
+      <point x="358" y="757" type="curve" smooth="yes"/>
+      <point x="402" y="757"/>
+      <point x="424" y="739"/>
+      <point x="424" y="707" type="curve" smooth="yes"/>
+      <point x="424" y="677"/>
+      <point x="402" y="659"/>
+    </contour>
+  </outline>
+</glyph>

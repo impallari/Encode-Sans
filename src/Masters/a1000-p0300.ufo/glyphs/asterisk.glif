@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="502"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="246" y="620" type="line"/>
+      <point x="257" y="620" type="line"/>
+      <point x="261" y="625" type="line"/>
+      <point x="281" y="749" type="line"/>
+      <point x="281" y="829" type="line"/>
+      <point x="222" y="829" type="line"/>
+      <point x="222" y="749" type="line"/>
+      <point x="241" y="625" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="616" type="line"/>
+      <point x="255" y="635" type="line"/>
+      <point x="144" y="691" type="line"/>
+      <point x="67" y="715" type="line"/>
+      <point x="49" y="659" type="line"/>
+      <point x="125" y="635" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="444" type="line"/>
+      <point x="202" y="509" type="line"/>
+      <point x="259" y="621" type="line"/>
+      <point x="243" y="632" type="line"/>
+      <point x="155" y="544" type="line"/>
+      <point x="108" y="478" type="line"/>
+    </contour>
+    <contour>
+      <point x="347" y="444" type="line"/>
+      <point x="395" y="478" type="line"/>
+      <point x="347" y="544" type="line"/>
+      <point x="260" y="632" type="line"/>
+      <point x="244" y="621" type="line"/>
+      <point x="300" y="509" type="line"/>
+    </contour>
+    <contour>
+      <point x="453" y="659" type="line"/>
+      <point x="435" y="715" type="line"/>
+      <point x="358" y="691" type="line"/>
+      <point x="247" y="635" type="line"/>
+      <point x="253" y="616" type="line"/>
+      <point x="377" y="635" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

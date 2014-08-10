@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lira" format="1">
+  <advance width="792"/>
+  <unicode hex="20A4"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="739" y="0" type="line"/>
+      <point x="739" y="196" type="line"/>
+      <point x="444" y="196" type="line"/>
+      <point x="444" y="503" type="line" smooth="yes"/>
+      <point x="444" y="543"/>
+      <point x="481" y="559"/>
+      <point x="583" y="559" type="curve" smooth="yes"/>
+      <point x="631" y="559"/>
+      <point x="684" y="554"/>
+      <point x="748" y="543" type="curve"/>
+      <point x="753" y="725" type="line"/>
+      <point x="680" y="744"/>
+      <point x="630" y="750"/>
+      <point x="557" y="750" type="curve" smooth="yes"/>
+      <point x="327" y="750"/>
+      <point x="209" y="667"/>
+      <point x="209" y="503" type="curve" smooth="yes"/>
+      <point x="209" y="198" type="line"/>
+      <point x="45" y="198" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="242" type="line"/>
+      <point x="620" y="242" type="line"/>
+      <point x="640" y="352" type="line"/>
+      <point x="45" y="352" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="386" type="line"/>
+      <point x="645" y="386" type="line"/>
+      <point x="665" y="496" type="line"/>
+      <point x="45" y="496" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

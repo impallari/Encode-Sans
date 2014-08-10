@@ -1,0 +1,340 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="131028_2106_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="Peso" />
+<data name="horizontalPreviewAxis" value="None" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="30.0" />
+<data name="previewtext" value="no" />
+<data name="verticalPreviewAxis" value="Ancho" />
+<data name="projectionAngle" value="2.68561525327" />
+<!-- axis definitions -->
+<axis maximum="1000" minimum="0" name="Ancho" shortname="A" />
+<axis maximum="1000" minimum="0" name="Peso" shortname="P" />
+
+<!-- master definitions -->
+<master filename="a0000-p0000.ufo">
+<location>
+<dimension name="Ancho" xvalue="0" />
+<dimension name="Peso" xvalue="0" />
+</location>
+<!-- color for a0000-p0000.ufo -->
+<color a="1.000000" b="0.000000" g="0.000000" r="0.500000" />
+</master>
+<master filename="a0000-p0300.ufo">
+<location>
+<dimension name="Ancho" xvalue="0" />
+<dimension name="Peso" xvalue="300" />
+</location>
+<!-- color for a0000-p0300.ufo -->
+<color a="1.000000" b="0.000000" g="1.000000" r="1.000000" />
+</master>
+<master filename="a0000-p1000.ufo">
+<location>
+<dimension name="Ancho" xvalue="0" />
+<dimension name="Peso" xvalue="1000" />
+</location>
+<!-- color for a0000-p1000.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
+</master>
+<master filename="a1000-p0000.ufo">
+<location>
+<dimension name="Ancho" xvalue="1000" />
+<dimension name="Peso" xvalue="0" />
+</location>
+<!-- color for a1000-p0000.ufo -->
+<color a="1.000000" b="1.000000" g="1.000000" r="1.000000" />
+</master>
+<master filename="a1000-p0300.ufo">
+<location>
+<dimension name="Ancho" xvalue="1000" />
+<dimension name="Peso" xvalue="300" />
+</location>
+<!-- color for a1000-p0300.ufo -->
+<color a="1.000000" b="0.500000" g="0.000000" r="0.000000" />
+</master>
+<master filename="a1000-p1000.ufo">
+<location>
+<dimension name="Ancho" xvalue="1000" />
+<dimension name="Peso" xvalue="1000" />
+</location>
+<!-- color for a1000-p1000.ufo -->
+<color a="1.000000" b="1.000000" g="0.000000" r="0.500000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="EncodeSansExtra-Condensed" sequence="" stylename="100 Thin">
+<location>
+<dimension name="Ancho" xvalue="0" />
+<dimension name="Peso" xvalue="0" />
+</location>
+</instance>
+<instance familyname="EncodeSansExtra-Condensed" sequence="" stylename="200 ExtraLight">
+<location>
+<dimension name="Ancho" xvalue="0" />
+<dimension name="Peso" xvalue="57.4500" />
+</location>
+</instance>
+<instance familyname="EncodeSansExtra-Condensed" sequence="" stylename="300 Light">
+<location>
+<dimension name="Ancho" xvalue="0" />
+<dimension name="Peso" xvalue="140.4000" />
+</location>
+</instance>
+<instance familyname="EncodeSansExtra-Condensed" sequence="" stylename="400 Regular">
+<location>
+<dimension name="Ancho" xvalue="0" />
+<dimension name="Peso" xvalue="248.9600" />
+</location>
+</instance>
+<instance familyname="EncodeSansExtra-Condensed" sequence="" stylename="500 Medium">
+<location>
+<dimension name="Ancho" xvalue="0" />
+<dimension name="Peso" xvalue="377.0500" />
+</location>
+</instance>
+<instance familyname="EncodeSansExtra-Condensed" sequence="" stylename="600 SemiBold">
+<location>
+<dimension name="Ancho" xvalue="0" />
+<dimension name="Peso" xvalue="511.9000" />
+</location>
+</instance>
+<instance familyname="EncodeSansExtra-Condensed" sequence="" stylename="700 Bold">
+<location>
+<dimension name="Ancho" xvalue="0" />
+<dimension name="Peso" xvalue="659.6500" />
+</location>
+</instance>
+<instance familyname="EncodeSansExtra-Condensed" sequence="" stylename="800 ExtraBold">
+<location>
+<dimension name="Ancho" xvalue="0" />
+<dimension name="Peso" xvalue="807.3600" />
+</location>
+</instance>
+<instance familyname="EncodeSansExtra-Condensed" sequence="" stylename="900 Black">
+<location>
+<dimension name="Ancho" xvalue="0" />
+<dimension name="Peso" xvalue="1000" />
+</location>
+</instance>
+<instance familyname="EncodeSansCondensed" sequence="" stylename="100 Thin">
+<location>
+<dimension name="Ancho" xvalue="250" />
+<dimension name="Peso" xvalue="12" />
+</location>
+</instance>
+<instance familyname="EncodeSansCondensed" sequence="" stylename="200 ExtraLight">
+<location>
+<dimension name="Ancho" xvalue="250" />
+<dimension name="Peso" xvalue="72" />
+</location>
+</instance>
+<instance familyname="EncodeSansCondensed" sequence="" stylename="300 Light">
+<location>
+<dimension name="Ancho" xvalue="250" />
+<dimension name="Peso" xvalue="162" />
+</location>
+</instance>
+<instance familyname="EncodeSansCondensed" sequence="" stylename="400 Regular">
+<location>
+<dimension name="Ancho" xvalue="250" />
+<dimension name="Peso" xvalue="270" />
+</location>
+</instance>
+<instance familyname="EncodeSansCondensed" sequence="" stylename="500 Medium">
+<location>
+<dimension name="Ancho" xvalue="250" />
+<dimension name="Peso" xvalue="402.6000" />
+</location>
+</instance>
+<instance familyname="EncodeSansCondensed" sequence="" stylename="600 SemiBold">
+<location>
+<dimension name="Ancho" xvalue="250" />
+<dimension name="Peso" xvalue="553.4500" />
+</location>
+</instance>
+<instance familyname="EncodeSansCondensed" sequence="" stylename="700 Bold">
+<location>
+<dimension name="Ancho" xvalue="250" />
+<dimension name="Peso" xvalue="704.3330" />
+</location>
+</instance>
+<instance familyname="EncodeSansCondensed" sequence="" stylename="800 ExtraBold">
+<location>
+<dimension name="Ancho" xvalue="250" />
+<dimension name="Peso" xvalue="861.2000" />
+</location>
+</instance>
+<instance familyname="EncodeSansCondensed" sequence="" stylename="900 Black">
+<location>
+<dimension name="Ancho" xvalue="250" />
+<dimension name="Peso" xvalue="1000" />
+</location>
+</instance>
+<instance familyname="EncodeSansSemi-Condensed" sequence="" stylename="100 Thin">
+<location>
+<dimension name="Ancho" xvalue="500" />
+<dimension name="Peso" xvalue="22.6666" />
+</location>
+</instance>
+<instance familyname="EncodeSansSemi-Condensed" sequence="" stylename="200 ExtraLight">
+<location>
+<dimension name="Ancho" xvalue="500" />
+<dimension name="Peso" xvalue="84.9000" />
+</location>
+</instance>
+<instance familyname="EncodeSansSemi-Condensed" sequence="" stylename="300 Light">
+<location>
+<dimension name="Ancho" xvalue="500" />
+<dimension name="Peso" xvalue="169.8000" />
+</location>
+</instance>
+<instance familyname="EncodeSansSemi-Condensed" sequence="" stylename="400 Regular">
+<location>
+<dimension name="Ancho" xvalue="500" />
+<dimension name="Peso" xvalue="283" />
+</location>
+</instance>
+<instance familyname="EncodeSansSemi-Condensed" sequence="" stylename="500 Medium">
+<location>
+<dimension name="Ancho" xvalue="500" />
+<dimension name="Peso" xvalue="413.8000" />
+</location>
+</instance>
+<instance familyname="EncodeSansSemi-Condensed" sequence="" stylename="600 SemiBold">
+<location>
+<dimension name="Ancho" xvalue="500" />
+<dimension name="Peso" xvalue="556.1000" />
+</location>
+</instance>
+<instance familyname="EncodeSansSemi-Condensed" sequence="" stylename="700 Bold">
+<location>
+<dimension name="Ancho" xvalue="500" />
+<dimension name="Peso" xvalue="709.7500" />
+</location>
+</instance>
+<instance familyname="EncodeSansSemi-Condensed" sequence="" stylename="800 ExtraBold">
+<location>
+<dimension name="Ancho" xvalue="500" />
+<dimension name="Peso" xvalue="863.4000" />
+</location>
+</instance>
+<instance familyname="EncodeSansSemi-Condensed" sequence="" stylename="900 Black">
+<location>
+<dimension name="Ancho" xvalue="500" />
+<dimension name="Peso" xvalue="1000" />
+</location>
+</instance>
+<instance familyname="EncodeSansNormal" sequence="" stylename="100 Thin">
+<location>
+<dimension name="Ancho" xvalue="750" />
+<dimension name="Peso" xvalue="32.1500" />
+</location>
+</instance>
+<instance familyname="EncodeSansNormal" sequence="" stylename="200 ExtraLight">
+<location>
+<dimension name="Ancho" xvalue="750" />
+<dimension name="Peso" xvalue="91.0500" />
+</location>
+</instance>
+<instance familyname="EncodeSansNormal" sequence="" stylename="300 Light">
+<location>
+<dimension name="Ancho" xvalue="750" />
+<dimension name="Peso" xvalue="176.8000" />
+</location>
+</instance>
+<instance familyname="EncodeSansNormal" sequence="" stylename="400 Regular">
+<location>
+<dimension name="Ancho" xvalue="750" />
+<dimension name="Peso" xvalue="289.3000" />
+</location>
+</instance>
+<instance familyname="EncodeSansNormal" sequence="" stylename="500 Medium">
+<location>
+<dimension name="Ancho" xvalue="750" />
+<dimension name="Peso" xvalue="418.4400" />
+</location>
+</instance>
+<instance familyname="EncodeSansNormal" sequence="" stylename="600 SemiBold">
+<location>
+<dimension name="Ancho" xvalue="750" />
+<dimension name="Peso" xvalue="563.8500" />
+</location>
+</instance>
+<instance familyname="EncodeSansNormal" sequence="" stylename="700 Bold">
+<location>
+<dimension name="Ancho" xvalue="750" />
+<dimension name="Peso" xvalue="714.6000" />
+</location>
+</instance>
+<instance familyname="EncodeSansNormal" sequence="" stylename="800 ExtraBold">
+<location>
+<dimension name="Ancho" xvalue="750" />
+<dimension name="Peso" xvalue="865.4000" />
+</location>
+</instance>
+<instance familyname="EncodeSansNormal" sequence="" stylename="900 Black">
+<location>
+<dimension name="Ancho" xvalue="750" />
+<dimension name="Peso" xvalue="1000" />
+</location>
+</instance>
+<instance familyname="EncodeSansExpanded" sequence="" stylename="100 Thin">
+<location>
+<dimension name="Ancho" xvalue="1000" />
+<dimension name="Peso" xvalue="40.8000" />
+</location>
+</instance>
+<instance familyname="EncodeSansExpanded" sequence="" stylename="200 ExtraLight">
+<location>
+<dimension name="Ancho" xvalue="1000" />
+<dimension name="Peso" xvalue="102.0500" />
+</location>
+</instance>
+<instance familyname="EncodeSansExpanded" sequence="" stylename="300 Light">
+<location>
+<dimension name="Ancho" xvalue="1000" />
+<dimension name="Peso" xvalue="183.6666" />
+</location>
+</instance>
+<instance familyname="EncodeSansExpanded" sequence="" stylename="400 Regular">
+<location>
+<dimension name="Ancho" xvalue="1000" />
+<dimension name="Peso" xvalue="295.9000" />
+</location>
+</instance>
+<instance familyname="EncodeSansExpanded" sequence="" stylename="500 Medium">
+<location>
+<dimension name="Ancho" xvalue="1000" />
+<dimension name="Peso" xvalue="423.4500" />
+</location>
+</instance>
+<instance familyname="EncodeSansExpanded" sequence="" stylename="600 SemiBold">
+<location>
+<dimension name="Ancho" xvalue="1000" />
+<dimension name="Peso" xvalue="566.3500" />
+</location>
+</instance>
+<instance familyname="EncodeSansExpanded" sequence="" stylename="700 Bold">
+<location>
+<dimension name="Ancho" xvalue="1000" />
+<dimension name="Peso" xvalue="719.4000" />
+</location>
+</instance>
+<instance familyname="EncodeSansExpanded" sequence="" stylename="800 ExtraBold">
+<location>
+<dimension name="Ancho" xvalue="1000" />
+<dimension name="Peso" xvalue="867.3500" />
+</location>
+</instance>
+<instance familyname="EncodeSansExpanded" sequence="" stylename="900 Black">
+<location>
+<dimension name="Ancho" xvalue="1000" />
+<dimension name="Peso" xvalue="1000" />
+</location>
+</instance>
+</designspace>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less.tab" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="542" y="90" type="line"/>
+      <point x="542" y="237" type="line"/>
+      <point x="232" y="363" type="line"/>
+      <point x="542" y="489" type="line"/>
+      <point x="542" y="636" type="line"/>
+      <point x="35" y="429" type="line"/>
+      <point x="35" y="297" type="line"/>
+    </contour>
+  </outline>
+</glyph>

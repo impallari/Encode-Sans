@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave.cap" format="1">
+  <advance width="222"/>
+  <outline>
+    <contour>
+      <point x="162" y="774" type="move" name="_topUC"/>
+    </contour>
+    <contour>
+      <point x="190" y="799" type="line"/>
+      <point x="116" y="933" type="line"/>
+      <point x="31" y="933" type="line"/>
+      <point x="127" y="786" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

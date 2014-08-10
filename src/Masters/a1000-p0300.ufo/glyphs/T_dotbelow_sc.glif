@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tdotbelow.sc" format="1">
+  <advance width="578"/>
+  <outline>
+    <contour>
+      <point x="244" y="0" type="line"/>
+      <point x="335" y="0" type="line"/>
+      <point x="335" y="505" type="line"/>
+      <point x="556" y="505" type="line"/>
+      <point x="556" y="577" type="line"/>
+      <point x="22" y="577" type="line"/>
+      <point x="22" y="505" type="line"/>
+      <point x="244" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="-149" type="curve" smooth="yes"/>
+      <point x="323" y="-149"/>
+      <point x="339" y="-135"/>
+      <point x="339" y="-104" type="curve" smooth="yes"/>
+      <point x="339" y="-72"/>
+      <point x="323" y="-58"/>
+      <point x="290" y="-58" type="curve" smooth="yes"/>
+      <point x="257" y="-58"/>
+      <point x="241" y="-72"/>
+      <point x="241" y="-104" type="curve" smooth="yes"/>
+      <point x="241" y="-135"/>
+      <point x="257" y="-149"/>
+    </contour>
+  </outline>
+</glyph>

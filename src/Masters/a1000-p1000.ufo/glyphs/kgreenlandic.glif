@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="694"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="56" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="211" type="line"/>
+      <point x="325" y="211" type="line"/>
+      <point x="457" y="0" type="line"/>
+      <point x="708" y="0" type="line"/>
+      <point x="517" y="271" type="line"/>
+      <point x="488" y="277" type="line"/>
+      <point x="488" y="281" type="line"/>
+      <point x="517" y="287" type="line"/>
+      <point x="690" y="540" type="line"/>
+      <point x="438" y="540" type="line"/>
+      <point x="327" y="346" type="line"/>
+      <point x="286" y="346" type="line"/>
+      <point x="286" y="540" type="line"/>
+      <point x="56" y="540" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
