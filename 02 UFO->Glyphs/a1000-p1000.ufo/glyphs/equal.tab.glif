@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal.tab" format="1">
+  <advance width="670"/>
+  <outline>
+    <contour>
+      <point x="85" y="167" type="line"/>
+      <point x="584" y="167" type="line"/>
+      <point x="584" y="305" type="line"/>
+      <point x="85" y="305" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="390" type="line"/>
+      <point x="584" y="390" type="line"/>
+      <point x="584" y="528" type="line"/>
+      <point x="85" y="528" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

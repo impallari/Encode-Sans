@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve.cap" format="1">
+  <advance width="454"/>
+  <outline>
+    <contour>
+      <point x="227" y="760" type="move" name="_topUC"/>
+    </contour>
+    <contour>
+      <point x="226" y="816" type="curve" smooth="yes"/>
+      <point x="328" y="816"/>
+      <point x="391" y="866"/>
+      <point x="391" y="948" type="curve"/>
+      <point x="357" y="948" type="line"/>
+      <point x="357" y="887"/>
+      <point x="307" y="850"/>
+      <point x="226" y="850" type="curve" smooth="yes"/>
+      <point x="145" y="850"/>
+      <point x="95" y="887"/>
+      <point x="95" y="948" type="curve"/>
+      <point x="61" y="948" type="line"/>
+      <point x="61" y="866"/>
+      <point x="124" y="816"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

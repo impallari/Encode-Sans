@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_t" format="1">
+  <advance width="1056"/>
+  <outline>
+    <component base="t"/>
+    <component base="f.calt" xOffset="510"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:39:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

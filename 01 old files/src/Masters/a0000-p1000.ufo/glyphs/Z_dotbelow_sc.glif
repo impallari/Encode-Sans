@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zdotbelow.sc" format="1">
+  <advance width="532"/>
+  <outline>
+    <contour>
+      <point x="27" y="0" type="line"/>
+      <point x="506" y="0" type="line"/>
+      <point x="506" y="151" type="line"/>
+      <point x="229" y="151" type="line"/>
+      <point x="229" y="160" type="line"/>
+      <point x="489" y="409" type="line"/>
+      <point x="489" y="577" type="line"/>
+      <point x="43" y="577" type="line"/>
+      <point x="43" y="426" type="line"/>
+      <point x="287" y="426" type="line"/>
+      <point x="287" y="417" type="line"/>
+      <point x="27" y="167" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="-182" type="curve" smooth="yes"/>
+      <point x="318" y="-182"/>
+      <point x="340" y="-163"/>
+      <point x="340" y="-114" type="curve" smooth="yes"/>
+      <point x="340" y="-66"/>
+      <point x="318" y="-47"/>
+      <point x="266" y="-47" type="curve" smooth="yes"/>
+      <point x="213" y="-47"/>
+      <point x="193" y="-67"/>
+      <point x="193" y="-114" type="curve" smooth="yes"/>
+      <point x="193" y="-162"/>
+      <point x="213" y="-182"/>
+    </contour>
+  </outline>
+</glyph>

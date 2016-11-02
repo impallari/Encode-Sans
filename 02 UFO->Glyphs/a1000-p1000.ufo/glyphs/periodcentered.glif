@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="1">
+  <advance width="317"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="159" y="252" type="curve" smooth="yes"/>
+      <point x="249" y="252"/>
+      <point x="280" y="291"/>
+      <point x="280" y="370" type="curve" smooth="yes"/>
+      <point x="280" y="449"/>
+      <point x="249" y="488"/>
+      <point x="159" y="488" type="curve" smooth="yes"/>
+      <point x="71" y="488"/>
+      <point x="37" y="453"/>
+      <point x="37" y="370" type="curve" smooth="yes"/>
+      <point x="37" y="287"/>
+      <point x="71" y="252"/>
+    </contour>
+    <contour>
+      <point x="159" y="370" type="move" name="_periodcentered"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

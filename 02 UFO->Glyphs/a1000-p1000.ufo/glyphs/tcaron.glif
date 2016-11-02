@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="1">
+  <advance width="511"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="327" y="-17" type="curve" smooth="yes"/>
+      <point x="381" y="-17"/>
+      <point x="442" y="-9"/>
+      <point x="473" y="1" type="curve"/>
+      <point x="473" y="170" type="line"/>
+      <point x="452" y="161"/>
+      <point x="431" y="156"/>
+      <point x="412" y="156" type="curve" smooth="yes"/>
+      <point x="357" y="156"/>
+      <point x="340" y="173"/>
+      <point x="340" y="230" type="curve" smooth="yes"/>
+      <point x="340" y="349" type="line"/>
+      <point x="473" y="349" type="line"/>
+      <point x="473" y="540" type="line"/>
+      <point x="338" y="540" type="line"/>
+      <point x="338" y="730" type="line"/>
+      <point x="162" y="713" type="line"/>
+      <point x="126" y="540" type="line"/>
+      <point x="22" y="540" type="line"/>
+      <point x="22" y="349" type="line"/>
+      <point x="110" y="349" type="line"/>
+      <point x="110" y="177" type="line" smooth="yes"/>
+      <point x="110" y="50"/>
+      <point x="185" y="-17"/>
+    </contour>
+    <component base="caron.alt" xOffset="342"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

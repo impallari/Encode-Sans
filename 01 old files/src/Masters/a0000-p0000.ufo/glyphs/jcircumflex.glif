@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex" format="1">
+  <advance width="173"/>
+  <unicode hex="0135"/>
+  <outline>
+    <contour>
+      <point x="-39" y="641" type="line"/>
+      <point x="82" y="713" type="line"/>
+      <point x="203" y="641" type="line"/>
+      <point x="203" y="682" type="line"/>
+      <point x="82" y="754" type="line"/>
+      <point x="-39" y="682" type="line"/>
+    </contour>
+    <component base="dotlessj"/>
+  </outline>
+</glyph>

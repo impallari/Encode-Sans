@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less.tab" format="1">
+  <advance width="670"/>
+  <outline>
+    <contour>
+      <point x="588" y="90" type="line"/>
+      <point x="588" y="237" type="line"/>
+      <point x="258" y="363" type="line"/>
+      <point x="588" y="489" type="line"/>
+      <point x="588" y="636" type="line"/>
+      <point x="51" y="429" type="line"/>
+      <point x="51" y="297" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

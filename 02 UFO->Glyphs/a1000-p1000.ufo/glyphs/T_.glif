@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="704"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="234" y="0" type="line"/>
+      <point x="469" y="0" type="line"/>
+      <point x="469" y="564" type="line"/>
+      <point x="683" y="564" type="line"/>
+      <point x="683" y="740" type="line"/>
+      <point x="21" y="740" type="line"/>
+      <point x="21" y="564" type="line"/>
+      <point x="234" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="355" y="885" type="move" name="topUC"/>
+    </contour>
+    <contour>
+      <point x="352" y="-110" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

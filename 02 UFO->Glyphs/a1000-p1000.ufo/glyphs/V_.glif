@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="1">
+  <advance width="815"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="253" y="0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="821" y="740" type="line"/>
+      <point x="571" y="740" type="line"/>
+      <point x="454" y="380" type="line"/>
+      <point x="415" y="221" type="line"/>
+      <point x="405" y="221" type="line"/>
+      <point x="366" y="380" type="line"/>
+      <point x="249" y="740" type="line"/>
+      <point x="-6" y="740" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

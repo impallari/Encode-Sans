@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030F.cap" format="1">
+  <advance width="447"/>
+  <outline>
+    <contour>
+      <point x="262" y="805" type="move" name="_topUC"/>
+    </contour>
+    <contour>
+      <point x="223" y="800" type="line"/>
+      <point x="159" y="988" type="line"/>
+      <point x="2" y="988" type="line"/>
+      <point x="126" y="790" type="line"/>
+    </contour>
+    <contour>
+      <point x="421" y="800" type="line"/>
+      <point x="357" y="988" type="line"/>
+      <point x="200" y="988" type="line"/>
+      <point x="324" y="790" type="line"/>
+    </contour>
+  </outline>
+</glyph>

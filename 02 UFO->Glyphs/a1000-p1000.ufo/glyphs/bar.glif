@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="1">
+  <advance width="365"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="75" y="808" type="line"/>
+      <point x="75" y="-220" type="line"/>
+      <point x="290" y="-220" type="line"/>
+      <point x="290" y="808" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

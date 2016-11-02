@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.denominator" format="1">
+  <advance width="354"/>
+  <outline>
+    <contour>
+      <point x="239" y="0" type="line"/>
+      <point x="273" y="0" type="line"/>
+      <point x="273" y="140" type="line"/>
+      <point x="328" y="140" type="line"/>
+      <point x="328" y="172" type="line"/>
+      <point x="273" y="172" type="line"/>
+      <point x="273" y="393" type="line"/>
+      <point x="247" y="393" type="line"/>
+      <point x="239" y="172" type="line"/>
+      <point x="61" y="172" type="line"/>
+      <point x="231" y="537" type="line"/>
+      <point x="231" y="545" type="line"/>
+      <point x="211" y="554" type="line"/>
+      <point x="202" y="554" type="line"/>
+      <point x="20" y="159" type="line"/>
+      <point x="37" y="140" type="line"/>
+      <point x="239" y="140" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

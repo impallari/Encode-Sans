@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hcircumflex.sc" format="1">
+  <advance width="692"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="134" y="0" type="line"/>
+      <point x="134" y="281" type="line"/>
+      <point x="558" y="281" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="592" y="0" type="line"/>
+      <point x="592" y="577" type="line"/>
+      <point x="558" y="577" type="line"/>
+      <point x="558" y="312" type="line"/>
+      <point x="134" y="312" type="line"/>
+      <point x="134" y="577" type="line"/>
+      <point x="100" y="577" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="638" type="line"/>
+      <point x="340" y="694" type="line"/>
+      <point x="472" y="638" type="line"/>
+      <point x="472" y="674" type="line"/>
+      <point x="340" y="731" type="line"/>
+      <point x="208" y="674" type="line"/>
+    </contour>
+  </outline>
+</glyph>
