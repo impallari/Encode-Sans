@@ -1,7 +1,7 @@
 {
 .appVersion = "940";
 DisplayStrings = (
-"Ta\U00F4\U00E4/ccaron/ebreve/ainvertedbreve \U00E5\U00E2/amacron/gcommaaccent \U00E5/ohookabove \U00E3/gdotaccent/odotbelow \U00E7/tcedilla p/dotaccentcomb/macroncomb/iogonek/macronbelowcomb/Placeholder"
+"Ta\U00F4\U00E4/ccaron/ebreve/ainvertedbreve \U00E5\U00E2/amacron/gcommaaccent \U00E5/ohookabove \U00E3/gdotaccent/odotbelow \U00E7/tcedilla p/dotaccentcomb/macroncomb/iogonek/slashshortcomb/Placeholder"
 );
 classes = (
 {
@@ -27212,7 +27212,7 @@ unicode = 1E92;
 {
 color = 6;
 glyphname = Iacute_J.loclNLD;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -56385,7 +56385,7 @@ unicode = 1E93;
 {
 color = 6;
 glyphname = iacute_j.loclNLD;
-lastChange = "2016-11-17 20:55:58 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -56770,7 +56770,7 @@ unicode = FB02;
 {
 color = 6;
 glyphname = I_J.loclNLD;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -56877,7 +56877,7 @@ rightMetricsKey = J;
 {
 color = 6;
 glyphname = i_j.loclNLD;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -56985,7 +56985,7 @@ rightMetricsKey = j;
 color = 0;
 export = 0;
 glyphname = f_i;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -57093,7 +57093,7 @@ rightKerningGroup = KERN_i_1ST;
 color = 0;
 export = 0;
 glyphname = f_j;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -57200,7 +57200,7 @@ rightKerningGroup = KERN_j_1ST;
 {
 color = 6;
 glyphname = i_j.sc.loclNLD;
-lastChange = "2016-11-17 14:22:23 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -57307,7 +57307,7 @@ rightMetricsKey = j;
 {
 color = 6;
 glyphname = iacute_j.loclNLD.sc.loclNLD;
-lastChange = "2016-11-17 14:22:23 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -57476,7 +57476,7 @@ width = 715;
 {
 color = 7;
 glyphname = a.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -57816,7 +57816,7 @@ rightKerningGroup = KERN_A.sc;
 {
 color = 7;
 glyphname = aacute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -58147,7 +58147,7 @@ rightKerningGroup = KERN_A.sc;
 {
 color = 7;
 glyphname = abreve.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -58558,7 +58558,7 @@ rightKerningGroup = KERN_A.sc;
 {
 color = 7;
 glyphname = acircumflex.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -58905,7 +58905,7 @@ rightKerningGroup = KERN_A.sc;
 {
 color = 7;
 glyphname = adblgrave.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -59306,7 +59306,7 @@ width = 763;
 {
 color = 7;
 glyphname = adieresis.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -59837,7 +59837,7 @@ rightKerningGroup = KERN_A.sc;
 {
 color = 7;
 glyphname = agrave.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -60168,7 +60168,7 @@ rightKerningGroup = KERN_A.sc;
 {
 color = 7;
 glyphname = ainvertedbreve.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -60577,7 +60577,7 @@ width = 763;
 {
 color = 7;
 glyphname = amacron.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -60908,7 +60908,7 @@ rightKerningGroup = KERN_A.sc;
 {
 color = 7;
 glyphname = aogonek.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -61319,7 +61319,7 @@ rightKerningGroup = KERN_A.sc;
 {
 color = 7;
 glyphname = aring.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -61850,7 +61850,7 @@ rightKerningGroup = KERN_A.sc;
 {
 color = 7;
 glyphname = aringacute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -62357,7 +62357,7 @@ rightKerningGroup = KERN_A.sc;
 {
 color = 7;
 glyphname = atilde.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -62816,7 +62816,7 @@ rightKerningGroup = KERN_A.sc;
 {
 color = 7;
 glyphname = ae.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -63163,7 +63163,7 @@ rightKerningGroup = KERN_E.sc_1ST;
 {
 color = 7;
 glyphname = aeacute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -63534,7 +63534,7 @@ rightKerningGroup = KERN_E.sc_1ST;
 {
 color = 7;
 glyphname = b.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -64041,7 +64041,7 @@ rightKerningGroup = KERN_B.sc_1ST;
 {
 color = 7;
 glyphname = c.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -64420,7 +64420,7 @@ rightKerningGroup = KERN_C.sc_1ST;
 {
 color = 7;
 glyphname = cacute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -64791,7 +64791,7 @@ rightKerningGroup = KERN_C.sc_1ST;
 {
 color = 7;
 glyphname = ccaron.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -65178,7 +65178,7 @@ rightKerningGroup = KERN_C.sc_1ST;
 {
 color = 7;
 glyphname = ccedilla.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -65629,7 +65629,7 @@ rightKerningGroup = KERN_C.sc_1ST;
 {
 color = 7;
 glyphname = ccircumflex.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -66016,7 +66016,7 @@ rightKerningGroup = KERN_C.sc_1ST;
 {
 color = 7;
 glyphname = cdotaccent.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -66451,7 +66451,7 @@ rightKerningGroup = KERN_C.sc_1ST;
 {
 color = 7;
 glyphname = d.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -66870,7 +66870,7 @@ rightKerningGroup = KERN_D.sc_1ST;
 {
 color = 7;
 glyphname = eth.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -67273,7 +67273,7 @@ rightKerningGroup = KERN_D.sc_1ST;
 {
 color = 7;
 glyphname = dcaron.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -67700,7 +67700,7 @@ rightKerningGroup = KERN_D.sc_1ST;
 {
 color = 7;
 glyphname = dcroat.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -68103,7 +68103,7 @@ rightKerningGroup = KERN_D.sc_1ST;
 {
 color = 7;
 glyphname = ddotbelow.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -68578,7 +68578,7 @@ rightKerningGroup = KERN_D.sc_1ST;
 {
 color = 7;
 glyphname = e.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -68877,7 +68877,7 @@ rightKerningGroup = KERN_E.sc_1ST;
 {
 color = 7;
 glyphname = eacute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -69136,7 +69136,7 @@ rightKerningGroup = KERN_E.sc_1ST;
 {
 color = 7;
 glyphname = ebreve.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -69475,7 +69475,7 @@ rightKerningGroup = KERN_E.sc_1ST;
 {
 color = 7;
 glyphname = ecaron.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -69750,7 +69750,7 @@ rightKerningGroup = KERN_E.sc_1ST;
 {
 color = 7;
 glyphname = ecircumflex.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -70025,7 +70025,7 @@ rightKerningGroup = KERN_E.sc_1ST;
 {
 color = 7;
 glyphname = edblgrave.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -70354,7 +70354,7 @@ width = 681;
 {
 color = 7;
 glyphname = edieresis.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -70813,7 +70813,7 @@ rightKerningGroup = KERN_E.sc_1ST;
 {
 color = 7;
 glyphname = edotaccent.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -71136,7 +71136,7 @@ rightKerningGroup = KERN_E.sc_1ST;
 {
 color = 7;
 glyphname = edotbelow.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -71459,7 +71459,7 @@ rightKerningGroup = KERN_E.sc_1ST;
 {
 color = 7;
 glyphname = egrave.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -71718,7 +71718,7 @@ rightKerningGroup = KERN_E.sc_1ST;
 {
 color = 7;
 glyphname = einvertedbreve.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -72055,7 +72055,7 @@ width = 681;
 {
 color = 7;
 glyphname = emacron.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -72314,7 +72314,7 @@ rightKerningGroup = KERN_E.sc_1ST;
 {
 color = 7;
 glyphname = eogonek.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -72653,7 +72653,7 @@ rightKerningGroup = KERN_E.sc_1ST;
 {
 color = 7;
 glyphname = etilde.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -73040,7 +73040,7 @@ rightKerningGroup = KERN_E.sc_1ST;
 {
 color = 7;
 glyphname = schwa.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -73414,7 +73414,7 @@ rightKerningGroup = KERN_O.sc_1ST;
 {
 color = 7;
 glyphname = f.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -73585,7 +73585,7 @@ rightKerningGroup = KERN_F.sc_1ST;
 {
 color = 7;
 glyphname = g.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -73972,7 +73972,7 @@ rightKerningGroup = KERN_G.sc_1ST;
 {
 color = 7;
 glyphname = gacute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -74351,7 +74351,7 @@ rightKerningGroup = KERN_G.sc_1ST;
 {
 color = 7;
 glyphname = gbreve.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -74810,7 +74810,7 @@ rightKerningGroup = KERN_G.sc_1ST;
 {
 color = 7;
 glyphname = gcircumflex.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -75205,7 +75205,7 @@ rightKerningGroup = KERN_G.sc_1ST;
 {
 color = 7;
 glyphname = gcommaaccent.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -75584,7 +75584,7 @@ rightKerningGroup = KERN_G.sc_1ST;
 {
 color = 7;
 glyphname = gdotaccent.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -76027,7 +76027,7 @@ rightKerningGroup = KERN_G.sc_1ST;
 {
 color = 7;
 glyphname = h.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -76294,7 +76294,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = hbar.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -76617,7 +76617,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = hcircumflex.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -76892,7 +76892,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = hdotbelow.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -77215,7 +77215,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = i.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -77450,7 +77450,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = iacute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -77645,7 +77645,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = ibreve.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -77920,7 +77920,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = icircumflex.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -78131,7 +78131,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = idblgrave.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -78396,7 +78396,7 @@ width = 349;
 {
 color = 7;
 glyphname = idieresis.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -78791,7 +78791,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = idotaccent.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -79050,7 +79050,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = idotbelow.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -79309,7 +79309,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = igrave.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -79504,7 +79504,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = iinvertedbreve.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -79777,7 +79777,7 @@ width = 349;
 {
 color = 7;
 glyphname = imacron.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -79972,7 +79972,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = iogonek.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -80247,7 +80247,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = itilde.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -80570,7 +80570,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = j.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -80789,7 +80789,7 @@ rightKerningGroup = KERN_J.sc_1ST;
 {
 color = 7;
 glyphname = jcircumflex.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -81048,7 +81048,7 @@ rightKerningGroup = KERN_J.sc_1ST;
 {
 color = 7;
 glyphname = k.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -81315,7 +81315,7 @@ rightKerningGroup = KERN_K.sc_1ST;
 {
 color = 7;
 glyphname = kcommaaccent.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -81606,7 +81606,7 @@ rightKerningGroup = KERN_K.sc_1ST;
 {
 color = 7;
 glyphname = l.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -81889,7 +81889,7 @@ rightKerningGroup = KERN_L.sc_1ST;
 {
 color = 7;
 glyphname = lacute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -82100,7 +82100,7 @@ rightKerningGroup = KERN_L.sc_1ST;
 {
 color = 7;
 glyphname = lcaron.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -82311,7 +82311,7 @@ rightKerningGroup = KERN_L.sc_1ST;
 {
 color = 7;
 glyphname = lcommaaccent.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -82522,7 +82522,7 @@ rightKerningGroup = KERN_L.sc_1ST;
 {
 color = 7;
 glyphname = ldot.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -82796,7 +82796,7 @@ rightKerningGroup = KERN_L.sc_1ST;
 {
 color = 7;
 glyphname = lslash.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -82999,7 +82999,7 @@ rightKerningGroup = KERN_L.sc_1ST;
 {
 color = 7;
 glyphname = m.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -83250,7 +83250,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = n.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -83533,7 +83533,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = nacute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -83808,7 +83808,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = ncaron.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -84099,7 +84099,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = ncommaaccent.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -84374,7 +84374,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = ndotaccent.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -84713,7 +84713,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = eng.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -84964,7 +84964,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = ntilde.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -85367,7 +85367,7 @@ rightKerningGroup = KERN_I.sc_1ST;
 {
 color = 7;
 glyphname = o.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -85802,7 +85802,7 @@ rightKerningGroup = KERN_O.sc_1ST;
 {
 color = 7;
 glyphname = oacute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -86197,7 +86197,7 @@ rightKerningGroup = KERN_O.sc_1ST;
 {
 color = 7;
 glyphname = obreve.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -86672,7 +86672,7 @@ rightKerningGroup = KERN_O.sc_1ST;
 {
 color = 7;
 glyphname = ocircumflex.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -87083,7 +87083,7 @@ rightKerningGroup = KERN_O.sc_1ST;
 {
 color = 7;
 glyphname = odblgrave.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -87548,7 +87548,7 @@ width = 802;
 {
 color = 7;
 glyphname = odieresis.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -88143,7 +88143,7 @@ rightKerningGroup = KERN_O.sc_1ST;
 {
 color = 7;
 glyphname = odotbelow.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -88602,7 +88602,7 @@ rightKerningGroup = KERN_O.sc_1ST;
 {
 color = 7;
 glyphname = ograve.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -88997,7 +88997,7 @@ rightKerningGroup = KERN_O.sc_1ST;
 {
 color = 7;
 glyphname = ohungarumlaut.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -89464,7 +89464,7 @@ rightKerningGroup = KERN_O.sc_1ST;
 {
 color = 7;
 glyphname = oinvertedbreve.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -89937,7 +89937,7 @@ width = 801;
 {
 color = 7;
 glyphname = omacron.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -90332,7 +90332,7 @@ rightKerningGroup = KERN_O.sc_1ST;
 {
 color = 7;
 glyphname = oogonek.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -90805,7 +90805,7 @@ width = 802;
 {
 color = 7;
 glyphname = oslash.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -91376,7 +91376,7 @@ rightKerningGroup = KERN_O.sc_1ST;
 {
 color = 7;
 glyphname = oslashacute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -91971,7 +91971,7 @@ rightKerningGroup = KERN_O.sc_1ST;
 {
 color = 7;
 glyphname = otilde.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -92494,7 +92494,7 @@ rightKerningGroup = KERN_O.sc_1ST;
 {
 color = 7;
 glyphname = oe.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -92913,7 +92913,7 @@ rightKerningGroup = KERN_E.sc_1ST;
 {
 color = 7;
 glyphname = p.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -93259,7 +93259,7 @@ leftKerningGroup = KERN_I.sc_2ND;
 {
 color = 7;
 glyphname = thorn.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -93613,7 +93613,7 @@ leftKerningGroup = KERN_I.sc_2ND;
 {
 color = 7;
 glyphname = q.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -93976,7 +93976,7 @@ rightKerningGroup = KERN_O.sc_1ST;
 {
 color = 7;
 glyphname = r.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -94451,7 +94451,7 @@ rightKerningGroup = KERN_R.sc_1ST;
 {
 color = 7;
 glyphname = racute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -94922,7 +94922,7 @@ rightKerningGroup = KERN_R.sc_1ST;
 {
 color = 7;
 glyphname = rcaron.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -95409,7 +95409,7 @@ rightKerningGroup = KERN_R.sc_1ST;
 {
 color = 7;
 glyphname = rcommaaccent.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -95876,7 +95876,7 @@ rightKerningGroup = KERN_R.sc_1ST;
 {
 color = 7;
 glyphname = rdblgrave.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -96417,7 +96417,7 @@ width = 745;
 {
 color = 7;
 glyphname = rdotbelow.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -96952,7 +96952,7 @@ rightKerningGroup = KERN_R.sc_1ST;
 {
 color = 7;
 glyphname = rinvertedbreve.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -97501,7 +97501,7 @@ width = 745;
 {
 color = 7;
 glyphname = s.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -97976,7 +97976,7 @@ rightKerningGroup = KERN_S.sc;
 {
 color = 7;
 glyphname = sacute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -98443,7 +98443,7 @@ rightKerningGroup = KERN_S.sc;
 {
 color = 7;
 glyphname = scaron.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -98926,7 +98926,7 @@ rightKerningGroup = KERN_S.sc;
 {
 color = 7;
 glyphname = scedilla.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -99473,7 +99473,7 @@ rightKerningGroup = KERN_S.sc;
 {
 color = 7;
 glyphname = scircumflex.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -99956,7 +99956,7 @@ rightKerningGroup = KERN_S.sc;
 {
 color = 7;
 glyphname = scommaaccent.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -100423,7 +100423,7 @@ rightKerningGroup = KERN_S.sc;
 {
 color = 7;
 glyphname = sdotbelow.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -100954,7 +100954,7 @@ rightKerningGroup = KERN_S.sc;
 {
 color = 0;
 glyphname = germandbls.sc;
-lastChange = "2016-11-17 23:18:43 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -101059,7 +101059,7 @@ width = 1352;
 {
 color = 7;
 glyphname = t.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -101294,7 +101294,7 @@ rightKerningGroup = KERN_T.sc_1ST;
 {
 color = 7;
 glyphname = tbar.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -101513,7 +101513,7 @@ rightKerningGroup = KERN_T.sc_1ST;
 {
 color = 7;
 glyphname = tcaron.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -101756,7 +101756,7 @@ rightKerningGroup = KERN_T.sc_1ST;
 {
 color = 7;
 glyphname = tcedilla.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -102071,7 +102071,7 @@ rightKerningGroup = KERN_T.sc_1ST;
 {
 color = 7;
 glyphname = tcommaaccent.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -102298,7 +102298,7 @@ rightKerningGroup = KERN_T.sc_1ST;
 {
 color = 7;
 glyphname = tdotbelow.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -102589,7 +102589,7 @@ rightKerningGroup = KERN_T.sc_1ST;
 {
 color = 7;
 glyphname = u.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -102936,7 +102936,7 @@ rightKerningGroup = KERN_U.sc;
 {
 color = 7;
 glyphname = uacute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -103243,7 +103243,7 @@ rightKerningGroup = KERN_U.sc;
 {
 color = 7;
 glyphname = ubreve.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -103630,7 +103630,7 @@ rightKerningGroup = KERN_U.sc;
 {
 color = 7;
 glyphname = ucircumflex.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -103953,7 +103953,7 @@ rightKerningGroup = KERN_U.sc;
 {
 color = 7;
 glyphname = udblgrave.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -104330,7 +104330,7 @@ width = 820;
 {
 color = 7;
 glyphname = udieresis.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -104837,7 +104837,7 @@ rightKerningGroup = KERN_U.sc;
 {
 color = 7;
 glyphname = udotbelow.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -105208,7 +105208,7 @@ rightKerningGroup = KERN_U.sc;
 {
 color = 7;
 glyphname = ugrave.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -105515,7 +105515,7 @@ rightKerningGroup = KERN_U.sc;
 {
 color = 7;
 glyphname = uhungarumlaut.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -105894,7 +105894,7 @@ rightKerningGroup = KERN_U.sc;
 {
 color = 7;
 glyphname = uinvertedbreve.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -106279,7 +106279,7 @@ width = 820;
 {
 color = 7;
 glyphname = umacron.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -106586,7 +106586,7 @@ rightKerningGroup = KERN_U.sc;
 {
 color = 7;
 glyphname = uogonek.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -106973,7 +106973,7 @@ rightKerningGroup = KERN_U.sc;
 {
 color = 7;
 glyphname = uring.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -107480,7 +107480,7 @@ rightKerningGroup = KERN_U.sc;
 {
 color = 7;
 glyphname = utilde.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -107915,7 +107915,7 @@ rightKerningGroup = KERN_U.sc;
 {
 color = 7;
 glyphname = v.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -108084,7 +108084,7 @@ width = 751;
 {
 color = 7;
 glyphname = w.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -108399,7 +108399,7 @@ rightKerningGroup = KERN_W.sc;
 {
 color = 7;
 glyphname = wacute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -108738,7 +108738,7 @@ rightKerningGroup = KERN_W.sc;
 {
 color = 7;
 glyphname = wcircumflex.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -109093,7 +109093,7 @@ rightKerningGroup = KERN_W.sc;
 {
 color = 7;
 glyphname = wdieresis.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -109632,7 +109632,7 @@ rightKerningGroup = KERN_W.sc;
 {
 color = 7;
 glyphname = wgrave.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -109971,7 +109971,7 @@ rightKerningGroup = KERN_W.sc;
 {
 color = 7;
 glyphname = x.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -110204,7 +110204,7 @@ width = 753;
 {
 color = 7;
 glyphname = y.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -110439,7 +110439,7 @@ rightKerningGroup = KERN_Y.sc;
 {
 color = 7;
 glyphname = yacute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -110698,7 +110698,7 @@ rightKerningGroup = KERN_Y.sc;
 {
 color = 7;
 glyphname = ycircumflex.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -110973,7 +110973,7 @@ rightKerningGroup = KERN_Y.sc;
 {
 color = 7;
 glyphname = ydieresis.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -111432,7 +111432,7 @@ rightKerningGroup = KERN_Y.sc;
 {
 color = 7;
 glyphname = ygrave.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -111691,7 +111691,7 @@ rightKerningGroup = KERN_Y.sc;
 {
 color = 7;
 glyphname = ytilde.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -112078,7 +112078,7 @@ rightKerningGroup = KERN_Y.sc;
 {
 color = 7;
 glyphname = z.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -112345,7 +112345,7 @@ rightKerningGroup = KERN_Z.sc;
 {
 color = 7;
 glyphname = zacute.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -112604,7 +112604,7 @@ rightKerningGroup = KERN_Z.sc;
 {
 color = 7;
 glyphname = zcaron.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -112879,7 +112879,7 @@ rightKerningGroup = KERN_Z.sc;
 {
 color = 7;
 glyphname = zdotaccent.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -113202,7 +113202,7 @@ rightKerningGroup = KERN_Z.sc;
 {
 color = 7;
 glyphname = zdotbelow.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -118647,7 +118647,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = zero.osf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -118973,7 +118973,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = one.osf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -119134,7 +119134,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = two.osf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -119514,7 +119514,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = three.osf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -119951,7 +119951,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = four.osf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -120206,7 +120206,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = five.osf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -120529,7 +120529,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = six.osf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -120926,7 +120926,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = seven.osf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -121099,7 +121099,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = eight.osf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -121592,7 +121592,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = nine.osf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -121794,7 +121794,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = zero.tf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -122116,7 +122116,7 @@ note = "\012    600\012  ";
 {
 color = 3;
 glyphname = one.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -122319,7 +122319,7 @@ width = 670;
 {
 color = 3;
 glyphname = two.tf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -122632,7 +122632,7 @@ width = 670;
 {
 color = 3;
 glyphname = three.tf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -123065,7 +123065,7 @@ width = 670;
 {
 color = 3;
 glyphname = four.tf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -123302,7 +123302,7 @@ width = 670;
 {
 color = 3;
 glyphname = five.tf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -123611,7 +123611,7 @@ width = 670;
 {
 color = 3;
 glyphname = six.tf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -124020,7 +124020,7 @@ width = 670;
 {
 color = 3;
 glyphname = seven.tf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -124185,7 +124185,7 @@ width = 670;
 {
 color = 3;
 glyphname = eight.tf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -124706,7 +124706,7 @@ width = 670;
 {
 color = 3;
 glyphname = nine.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -125123,7 +125123,7 @@ width = 670;
 {
 color = 3;
 glyphname = zero.tosf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -125513,7 +125513,7 @@ note = "\012    600\012  ";
 {
 color = 3;
 glyphname = one.tosf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -125710,7 +125710,7 @@ width = 670;
 {
 color = 3;
 glyphname = two.tosf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -126023,7 +126023,7 @@ width = 670;
 {
 color = 3;
 glyphname = three.tosf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -126456,7 +126456,7 @@ width = 670;
 {
 color = 3;
 glyphname = four.tosf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -126697,7 +126697,7 @@ width = 670;
 {
 color = 3;
 glyphname = five.tosf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -127005,7 +127005,7 @@ width = 670;
 {
 color = 3;
 glyphname = six.tosf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -127422,7 +127422,7 @@ width = 670;
 {
 color = 3;
 glyphname = seven.tosf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -127587,7 +127587,7 @@ width = 670;
 {
 color = 3;
 glyphname = eight.tosf;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -128124,7 +128124,7 @@ width = 670;
 {
 color = 3;
 glyphname = nine.tosf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -129297,7 +129297,7 @@ unicode = 2089;
 {
 color = 8;
 glyphname = zero.dnom;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -129623,7 +129623,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 8;
 glyphname = one.dnom;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -129788,7 +129788,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 8;
 glyphname = two.dnom;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -130121,7 +130121,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 8;
 glyphname = three.dnom;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -130558,7 +130558,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 8;
 glyphname = four.dnom;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -130787,7 +130787,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 8;
 glyphname = five.dnom;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -131096,7 +131096,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 8;
 glyphname = six.dnom;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -131525,7 +131525,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 8;
 glyphname = seven.dnom;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -131714,7 +131714,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 8;
 glyphname = eight.dnom;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -132295,7 +132295,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 8;
 glyphname = nine.dnom;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -132723,7 +132723,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = zero.numr;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -133048,7 +133048,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = one.numr;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -133212,7 +133212,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = two.numr;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -133544,7 +133544,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = three.numr;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -133980,7 +133980,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = four.numr;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -134208,7 +134208,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = five.numr;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -134516,7 +134516,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = six.numr;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -134944,7 +134944,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = seven.numr;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -135132,7 +135132,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = eight.numr;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -135712,7 +135712,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = nine.numr;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -141791,7 +141791,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = periodcentered.tf;
-lastChange = "2016-11-17 13:23:46 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -142012,7 +142012,7 @@ width = 335;
 {
 color = 1;
 glyphname = colon.tf;
-lastChange = "2016-11-17 13:23:46 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -142333,7 +142333,7 @@ width = 335;
 {
 color = 1;
 glyphname = comma.tf;
-lastChange = "2016-11-17 13:23:46 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -142482,7 +142482,7 @@ width = 335;
 {
 color = 1;
 glyphname = numbersign.tf;
-lastChange = "2016-11-17 13:23:46 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -142791,7 +142791,7 @@ width = 670;
 {
 color = 1;
 glyphname = period.tf;
-lastChange = "2016-11-17 13:23:46 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -142976,7 +142976,7 @@ width = 335;
 {
 color = 1;
 glyphname = quotedbl.tf;
-lastChange = "2016-11-17 13:23:46 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -143181,7 +143181,7 @@ width = 335;
 {
 color = 1;
 glyphname = quotesingle.tf;
-lastChange = "2016-11-17 13:23:46 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -143308,7 +143308,7 @@ width = 335;
 {
 color = 1;
 glyphname = semicolon.tf;
-lastChange = "2016-11-17 13:23:46 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -143593,7 +143593,7 @@ width = 335;
 {
 color = 1;
 glyphname = slash.tf;
-lastChange = "2016-11-17 13:23:46 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -143714,7 +143714,7 @@ width = 670;
 {
 color = 1;
 glyphname = underscore.tf;
-lastChange = "2016-11-17 13:23:46 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -147583,7 +147583,7 @@ unicode = 201A;
 {
 color = 3;
 glyphname = braceleft.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -148057,7 +148057,7 @@ width = 349;
 {
 color = 3;
 glyphname = braceright.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -148464,7 +148464,7 @@ width = 348;
 {
 color = 3;
 glyphname = bracketleft.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -148617,7 +148617,7 @@ width = 408;
 {
 color = 3;
 glyphname = bracketright.sc;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -148770,7 +148770,7 @@ width = 408;
 {
 color = 3;
 glyphname = parenleft.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -148979,7 +148979,7 @@ width = 379;
 {
 color = 3;
 glyphname = parenright.sc;
-lastChange = "2016-11-16 20:02:06 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -156164,7 +156164,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = cedi.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -156372,7 +156372,7 @@ width = 600;
 {
 color = 3;
 glyphname = cent.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -156717,7 +156717,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = colonsign.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -157001,7 +157001,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = currency.tf;
-lastChange = "2016-11-15 16:02:04 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -157678,7 +157678,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = dollar.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -158067,7 +158067,7 @@ width = 726;
 {
 color = 3;
 glyphname = dong.tf;
-lastChange = "2016-11-15 16:02:04 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -158340,7 +158340,7 @@ width = 600;
 {
 color = 3;
 glyphname = euro.tf;
-lastChange = "2016-11-15 16:02:04 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -158767,7 +158767,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = florin.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -159080,7 +159080,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = franc.tf;
-lastChange = "2016-11-15 16:02:04 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -159351,7 +159351,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = guarani.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -159592,7 +159592,7 @@ width = 600;
 {
 color = 3;
 glyphname = kip.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -159749,7 +159749,7 @@ width = 600;
 {
 color = 3;
 glyphname = lira.tf;
-lastChange = "2016-11-15 16:02:04 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -160187,7 +160187,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = liraTurkish.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -160536,7 +160536,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = manat.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -160685,7 +160685,7 @@ width = 600;
 {
 color = 3;
 glyphname = naira.tf;
-lastChange = "2016-11-15 16:02:04 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -160974,7 +160974,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = peseta.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -161530,7 +161530,7 @@ width = 695;
 {
 color = 3;
 glyphname = peso.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -161760,7 +161760,7 @@ width = 600;
 {
 color = 3;
 glyphname = ruble.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -161978,7 +161978,7 @@ width = 600;
 {
 color = 3;
 glyphname = rupeeIndian.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -162455,7 +162455,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = sterling.tf;
-lastChange = "2016-11-15 16:02:04 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -162845,7 +162845,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = won.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -163170,7 +163170,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = yen.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -171341,7 +171341,7 @@ unicode = 2030;
 {
 color = 2;
 glyphname = bulletoperator.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -171578,7 +171578,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = plus.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -171777,7 +171777,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = minus.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -171904,7 +171904,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = multiply.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -172101,7 +172101,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = divide.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -172475,7 +172475,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = equal.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -172674,7 +172674,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = notequal.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -172945,7 +172945,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = greater.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -173146,7 +173146,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = less.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -173347,7 +173347,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = greaterequal.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -173620,7 +173620,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = lessequal.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -173893,7 +173893,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = plusminus.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -174164,7 +174164,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = approxequal.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -174619,7 +174619,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = asciitilde.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -174899,7 +174899,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = logicalnot.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -175042,7 +175042,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = infinity.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -175529,7 +175529,7 @@ rightMetricsKey = o;
 {
 color = 1;
 glyphname = bulletoperator.tf;
-lastChange = "2016-11-15 22:22:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -175766,7 +175766,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = divisionslash.tf;
-lastChange = "2016-11-15 22:22:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -175891,7 +175891,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = plus.tf;
-lastChange = "2016-11-15 22:23:33 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -176088,7 +176088,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = minus.tf;
-lastChange = "2016-11-15 22:23:33 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -176213,7 +176213,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = multiply.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -176410,7 +176410,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = divide.tf;
-lastChange = "2016-11-15 22:23:33 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -176782,7 +176782,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = equal.tf;
-lastChange = "2016-11-15 22:23:33 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -176979,7 +176979,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = notequal.tf;
-lastChange = "2016-11-15 22:23:33 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -177248,7 +177248,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = greater.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -177447,7 +177447,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = less.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -177646,7 +177646,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = greaterequal.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -177917,7 +177917,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = lessequal.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -178188,7 +178188,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = plusminus.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -178457,7 +178457,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = approxequal.tf;
-lastChange = "2016-11-15 22:23:33 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -178910,7 +178910,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = asciitilde.tf;
-lastChange = "2016-11-15 22:23:33 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -179188,7 +179188,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = logicalnot.tf;
-lastChange = "2016-11-15 22:24:09 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -179329,7 +179329,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = infinity.tf;
-lastChange = "2016-11-15 22:28:38 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -179860,7 +179860,7 @@ width = 964;
 {
 color = 1;
 glyphname = integral.tf;
-lastChange = "2016-11-15 22:22:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -180217,7 +180217,7 @@ width = 401;
 {
 color = 1;
 glyphname = product.tf;
-lastChange = "2016-11-15 22:29:14 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -180370,7 +180370,7 @@ width = 839;
 {
 color = 1;
 glyphname = summation.tf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -180590,7 +180590,7 @@ width = 638;
 {
 color = 1;
 glyphname = radical.tf;
-lastChange = "2016-11-15 22:30:13 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -180783,7 +180783,7 @@ width = 774;
 {
 color = 1;
 glyphname = micro.tf;
-lastChange = "2016-11-15 22:23:33 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -181116,7 +181116,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = partialdiff.tf;
-lastChange = "2016-11-15 22:31:25 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -181529,7 +181529,7 @@ width = 623;
 {
 color = 1;
 glyphname = percent.tf;
-lastChange = "2016-11-15 23:21:53 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -182204,7 +182204,7 @@ note = "\012    450\012  ";
 {
 color = 2;
 glyphname = bulletoperator.tosf;
-lastChange = "2016-11-15 22:32:48 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -182441,7 +182441,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = divisionslash.tosf;
-lastChange = "2016-11-15 22:32:48 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -182566,7 +182566,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = plus.tosf;
-lastChange = "2016-11-15 22:32:48 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -182763,7 +182763,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = minus.tosf;
-lastChange = "2016-11-15 22:32:48 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -182888,7 +182888,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = multiply.tosf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -183085,7 +183085,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = divide.tosf;
-lastChange = "2016-11-15 22:32:48 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -183457,7 +183457,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = equal.tosf;
-lastChange = "2016-11-15 22:32:48 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -183654,7 +183654,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = notequal.tosf;
-lastChange = "2016-11-15 22:32:48 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -183923,7 +183923,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = greater.tosf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -184122,7 +184122,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = less.tosf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -184321,7 +184321,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = greaterequal.tosf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -184592,7 +184592,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = lessequal.tosf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -184863,7 +184863,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = plusminus.tosf;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -185132,7 +185132,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = approxequal.tosf;
-lastChange = "2016-11-15 22:32:48 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -185585,7 +185585,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = asciitilde.tosf;
-lastChange = "2016-11-15 22:32:48 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -185863,7 +185863,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = logicalnot.tosf;
-lastChange = "2016-11-15 22:32:48 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -186004,7 +186004,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = infinity.tosf;
-lastChange = "2016-11-15 22:32:48 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -186535,7 +186535,7 @@ width = 964;
 {
 color = 2;
 glyphname = integral.tosf;
-lastChange = "2016-11-17 12:38:51 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 components = (
@@ -186582,7 +186582,7 @@ width = 401;
 {
 color = 2;
 glyphname = product.tosf;
-lastChange = "2016-11-17 12:38:51 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 components = (
@@ -186629,7 +186629,7 @@ width = 839;
 {
 color = 2;
 glyphname = summation.tosf;
-lastChange = "2016-11-17 12:38:51 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 components = (
@@ -186676,7 +186676,7 @@ width = 638;
 {
 color = 2;
 glyphname = radical.tosf;
-lastChange = "2016-11-17 12:38:51 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 components = (
@@ -186723,7 +186723,7 @@ width = 774;
 {
 color = 2;
 glyphname = micro.tosf;
-lastChange = "2016-11-17 12:38:51 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 components = (
@@ -186770,7 +186770,7 @@ width = 740;
 {
 color = 2;
 glyphname = partialdiff.tosf;
-lastChange = "2016-11-17 12:38:51 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 components = (
@@ -186817,7 +186817,7 @@ width = 623;
 {
 color = 2;
 glyphname = percent.tosf;
-lastChange = "2016-11-17 12:38:51 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -188084,7 +188084,7 @@ unicode = 25CA;
 {
 color = 2;
 glyphname = lozenge.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -188317,7 +188317,7 @@ width = 700;
 {
 color = 1;
 glyphname = lozenge.tf;
-lastChange = "2016-11-17 13:23:18 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 components = (
@@ -188364,7 +188364,7 @@ width = 700;
 {
 color = 2;
 glyphname = lozenge.tosf;
-lastChange = "2016-11-17 13:11:20 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 components = (
@@ -195386,7 +195386,7 @@ unicode = 2120;
 {
 color = 2;
 glyphname = asciicircum.osf;
-lastChange = "2016-11-17 13:22:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -195565,7 +195565,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = degree.tf;
-lastChange = "2016-11-17 13:23:15 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 components = (
@@ -195610,7 +195610,7 @@ width = 580;
 {
 color = 1;
 glyphname = bar.tf;
-lastChange = "2016-11-17 13:23:15 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 components = (
@@ -195655,7 +195655,7 @@ width = 365;
 {
 color = 1;
 glyphname = brokenbar.tf;
-lastChange = "2016-11-17 13:23:15 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 components = (
@@ -195700,7 +195700,7 @@ width = 367;
 {
 color = 1;
 glyphname = asciicircum.tf;
-lastChange = "2016-11-17 13:23:15 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 components = (
@@ -195743,7 +195743,7 @@ width = 606;
 {
 color = 2;
 glyphname = degree.tosf;
-lastChange = "2016-11-17 12:37:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 components = (
@@ -195788,7 +195788,7 @@ width = 580;
 {
 color = 2;
 glyphname = bar.tosf;
-lastChange = "2016-11-17 12:37:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 components = (
@@ -195833,7 +195833,7 @@ width = 365;
 {
 color = 2;
 glyphname = brokenbar.tosf;
-lastChange = "2016-11-17 12:37:55 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 components = (
@@ -195878,7 +195878,7 @@ width = 367;
 {
 color = 2;
 glyphname = asciicircum.tosf;
-lastChange = "2016-11-17 13:14:16 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -196538,7 +196538,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 7;
 glyphname = ampersand.sc;
-lastChange = "2016-11-17 13:38:13 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -197123,7 +197123,7 @@ width = 815;
 {
 color = 3;
 glyphname = uni20BF.tf;
-lastChange = "2016-11-17 12:43:42 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -197697,7 +197697,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 2;
 glyphname = uni20BF.tosf;
-lastChange = "2016-11-17 12:44:00 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -198271,7 +198271,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = dieresiscomb;
-lastChange = "2016-11-18 09:39:52 +0000";
+lastChange = "2016-11-18 09:55:54 +0000";
 layers = (
 {
 anchors = (
@@ -198463,6 +198463,10 @@ anchors = (
 {
 name = _top;
 position = "{300, 600}";
+},
+{
+name = top;
+position = "{300, 778}";
 }
 );
 background = {
@@ -198643,7 +198647,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = dotaccentcomb;
-lastChange = "2016-11-18 09:39:45 +0000";
+lastChange = "2016-11-18 09:56:08 +0000";
 layers = (
 {
 anchors = (
@@ -198767,6 +198771,10 @@ anchors = (
 {
 name = _top;
 position = "{300, 600}";
+},
+{
+name = top;
+position = "{300, 778}";
 }
 );
 background = {
@@ -198885,7 +198893,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = gravecomb;
-lastChange = "2016-11-18 09:39:58 +0000";
+lastChange = "2016-11-18 09:56:21 +0000";
 layers = (
 {
 anchors = (
@@ -198977,6 +198985,10 @@ anchors = (
 {
 name = _top;
 position = "{300, 600}";
+},
+{
+name = top;
+position = "{300, 778}";
 }
 );
 background = {
@@ -199057,7 +199069,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = acutecomb;
-lastChange = "2016-11-18 09:40:02 +0000";
+lastChange = "2016-11-18 09:56:23 +0000";
 layers = (
 {
 anchors = (
@@ -199149,6 +199161,10 @@ anchors = (
 {
 name = _top;
 position = "{300, 600}";
+},
+{
+name = top;
+position = "{300, 778}";
 }
 );
 background = {
@@ -199235,7 +199251,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = hungarumlautcomb;
-lastChange = "2016-11-18 09:40:11 +0000";
+lastChange = "2016-11-18 09:56:26 +0000";
 layers = (
 {
 anchors = (
@@ -199357,6 +199373,10 @@ anchors = (
 {
 name = _top;
 position = "{300, 600}";
+},
+{
+name = top;
+position = "{300, 808}";
 }
 );
 background = {
@@ -199469,7 +199489,7 @@ unicode = 030B;
 {
 color = 3;
 glyphname = caroncomb.alt;
-lastChange = "2016-11-17 14:22:32 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -199638,7 +199658,7 @@ width = 600;
 {
 color = 3;
 glyphname = circumflexcomb;
-lastChange = "2016-11-18 09:40:16 +0000";
+lastChange = "2016-11-18 09:56:32 +0000";
 layers = (
 {
 anchors = (
@@ -199732,6 +199752,10 @@ anchors = (
 {
 name = _top;
 position = "{300, 600}";
+},
+{
+name = top;
+position = "{300, 808}";
 }
 );
 background = {
@@ -199824,7 +199848,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = caroncomb;
-lastChange = "2016-11-18 09:40:28 +0000";
+lastChange = "2016-11-18 09:56:39 +0000";
 layers = (
 {
 anchors = (
@@ -199926,6 +199950,10 @@ anchors = (
 {
 name = _top;
 position = "{300, 600}";
+},
+{
+name = top;
+position = "{300, 778}";
 }
 );
 background = {
@@ -200022,7 +200050,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = brevecomb;
-lastChange = "2016-11-18 09:40:33 +0000";
+lastChange = "2016-11-18 09:56:41 +0000";
 layers = (
 {
 anchors = (
@@ -200161,6 +200189,10 @@ anchors = (
 {
 name = _top;
 position = "{300, 600}";
+},
+{
+name = top;
+position = "{300, 778}";
 }
 );
 background = {
@@ -200294,7 +200326,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = ringcomb;
-lastChange = "2016-11-18 09:40:36 +0000";
+lastChange = "2016-11-18 09:56:42 +0000";
 layers = (
 {
 anchors = (
@@ -200480,6 +200512,10 @@ anchors = (
 {
 name = _top;
 position = "{300, 600}";
+},
+{
+name = top;
+position = "{300, 778}";
 }
 );
 background = {
@@ -200660,7 +200696,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = tildecomb;
-lastChange = "2016-11-18 09:40:40 +0000";
+lastChange = "2016-11-18 09:56:45 +0000";
 layers = (
 {
 anchors = (
@@ -200810,6 +200846,10 @@ anchors = (
 {
 name = _top;
 position = "{300, 600}";
+},
+{
+name = top;
+position = "{300, 778}";
 }
 );
 background = {
@@ -200954,7 +200994,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = macroncomb;
-lastChange = "2016-11-18 09:40:42 +0000";
+lastChange = "2016-11-18 09:56:46 +0000";
 layers = (
 {
 anchors = (
@@ -201046,6 +201086,10 @@ anchors = (
 {
 name = _top;
 position = "{300, 600}";
+},
+{
+name = top;
+position = "{300, 778}";
 }
 );
 background = {
@@ -201132,7 +201176,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = hookabovecomb;
-lastChange = "2016-11-18 09:40:48 +0000";
+lastChange = "2016-11-18 09:56:50 +0000";
 layers = (
 {
 anchors = (
@@ -201214,6 +201258,10 @@ anchors = (
 {
 name = _top;
 position = "{300, 600}";
+},
+{
+name = top;
+position = "{300, 808}";
 }
 );
 background = {
@@ -201286,7 +201334,7 @@ unicode = 0309;
 {
 color = 3;
 glyphname = dblgravecomb;
-lastChange = "2016-11-18 09:40:52 +0000";
+lastChange = "2016-11-18 09:56:55 +0000";
 layers = (
 {
 anchors = (
@@ -201414,6 +201462,10 @@ anchors = (
 {
 name = _top;
 position = "{300, 600}";
+},
+{
+name = top;
+position = "{300, 808}";
 }
 );
 background = {
@@ -201532,7 +201584,7 @@ unicode = 030F;
 {
 color = 3;
 glyphname = breveinvertedcomb;
-lastChange = "2016-11-18 09:40:56 +0000";
+lastChange = "2016-11-18 09:56:58 +0000";
 layers = (
 {
 anchors = (
@@ -201664,6 +201716,10 @@ anchors = (
 {
 name = _top;
 position = "{300, 600}";
+},
+{
+name = top;
+position = "{300, 808}";
 }
 );
 background = {
@@ -201790,7 +201846,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = commaturnedabovecomb;
-lastChange = "2016-11-18 09:41:02 +0000";
+lastChange = "2016-11-18 09:57:03 +0000";
 layers = (
 {
 anchors = (
@@ -201868,6 +201924,10 @@ anchors = (
 {
 name = _top;
 position = "{300, 600}";
+},
+{
+name = top;
+position = "{300, 808}";
 }
 );
 color = -1;
@@ -202026,7 +202086,7 @@ unicode = 031B;
 {
 color = 3;
 glyphname = dotbelowcomb;
-lastChange = "2016-11-18 09:41:33 +0000";
+lastChange = "2016-11-18 09:55:37 +0000";
 layers = (
 {
 anchors = (
@@ -202150,6 +202210,10 @@ anchors = (
 {
 name = _bottom;
 position = "{300, 0}";
+},
+{
+name = bottom;
+position = "{300, -220}";
 }
 );
 color = -1;
@@ -202241,7 +202305,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = dieresisbelowcomb;
-lastChange = "2016-11-18 09:41:35 +0000";
+lastChange = "2016-11-18 09:55:35 +0000";
 layers = (
 {
 anchors = (
@@ -202324,6 +202388,10 @@ anchors = (
 {
 name = _bottom;
 position = "{300, 0}";
+},
+{
+name = bottom;
+position = "{300, -220}";
 }
 );
 background = {
@@ -203289,7 +203357,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 3;
 glyphname = brevebelowcomb;
-lastChange = "2016-11-18 09:45:25 +0000";
+lastChange = "2016-11-18 09:55:29 +0000";
 layers = (
 {
 anchors = (
@@ -203442,7 +203510,7 @@ unicode = 032E;
 {
 color = 3;
 glyphname = macronbelowcomb;
-lastChange = "2016-11-18 09:49:55 +0000";
+lastChange = "2016-11-18 09:55:27 +0000";
 layers = (
 {
 anchors = (
@@ -203500,6 +203568,10 @@ anchors = (
 {
 name = _bottom;
 position = "{300, 0}";
+},
+{
+name = bottom;
+position = "{300, -220}";
 }
 );
 color = -1;
@@ -203645,31 +203717,203 @@ unicode = 0337;
 {
 color = 3;
 glyphname = commaaccentcomb.alt;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
-color = -1;
+anchors = (
+{
+name = _bottom;
+position = "{200, 0}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"218 -155 OFFCURVE",
+"231 -143 OFFCURVE",
+"231 -124 CURVE SMOOTH",
+"231 -105 OFFCURVE",
+"218 -92 OFFCURVE",
+"200 -92 CURVE SMOOTH",
+"182 -92 OFFCURVE",
+"169 -105 OFFCURVE",
+"169 -124 CURVE SMOOTH",
+"169 -143 OFFCURVE",
+"182 -155 OFFCURVE",
+"200 -155 CURVE SMOOTH"
+);
+}
+);
+};
 layerId = "ECFF4977-BDCC-4836-B4AC-1801CF0EB460";
+paths = (
+{
+closed = 1;
+nodes = (
+"209 -224 LINE",
+"224 -193 OFFCURVE",
+"231 -159 OFFCURVE",
+"231 -135 CURVE SMOOTH",
+"231 -106 OFFCURVE",
+"218 -92 OFFCURVE",
+"198 -92 CURVE SMOOTH",
+"181 -92 OFFCURVE",
+"169 -105 OFFCURVE",
+"169 -123 CURVE SMOOTH",
+"169 -142 OFFCURVE",
+"182 -155 OFFCURVE",
+"200 -155 CURVE SMOOTH",
+"206 -155 LINE",
+"204 -139 LINE",
+"204 -163 OFFCURVE",
+"201 -188 OFFCURVE",
+"187 -224 CURVE"
+);
+}
+);
 width = 400;
 },
 {
+anchors = (
+{
+name = _bottom;
+position = "{156, 0}";
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
+position = "{156, 0}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"24 -220 LINE",
+"165 -220 LINE",
+"259 -70 LINE",
+"65 -70 LINE"
+);
+}
+);
+};
 layerId = "C8FFBC04-9D7C-494A-A42D-BACB8E26599D";
+paths = (
+{
+closed = 1;
+nodes = (
+"165 -220 LINE",
+"259 -70 LINE",
+"65 -70 LINE",
+"24 -220 LINE"
+);
+}
+);
 width = 400;
 },
 {
-color = -1;
+anchors = (
+{
+name = _bottom;
+position = "{300, 0}";
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
+position = "{125, 0}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"67 -220 LINE",
+"102 -220 LINE",
+"156 -70 LINE",
+"118 -70 LINE"
+);
+}
+);
+};
 layerId = "E28BEEB5-BD92-4E7A-B4EA-FC5E5BBBF580";
+paths = (
+{
+closed = 1;
+nodes = (
+"309 -224 LINE",
+"324 -193 OFFCURVE",
+"331 -159 OFFCURVE",
+"331 -135 CURVE SMOOTH",
+"331 -106 OFFCURVE",
+"318 -92 OFFCURVE",
+"298 -92 CURVE SMOOTH",
+"281 -92 OFFCURVE",
+"269 -105 OFFCURVE",
+"269 -123 CURVE SMOOTH",
+"269 -142 OFFCURVE",
+"282 -155 OFFCURVE",
+"300 -155 CURVE SMOOTH",
+"306 -155 LINE",
+"304 -139 LINE",
+"304 -163 OFFCURVE",
+"301 -188 OFFCURVE",
+"287 -224 CURVE"
+);
+}
+);
 width = 600;
 },
 {
+anchors = (
+{
+name = _bottom;
+position = "{187, -110}";
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
+position = "{187, -110}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"35 -220 LINE",
+"206 -220 LINE",
+"310 -70 LINE",
+"74 -70 LINE"
+);
+}
+);
+};
 layerId = "1E90A949-97C4-49F5-AA9A-AF35B6FD63CF";
+paths = (
+{
+closed = 1;
+nodes = (
+"206 -220 LINE",
+"310 -70 LINE",
+"74 -70 LINE",
+"35 -220 LINE"
+);
+}
+);
 width = 600;
 }
 );
 },
 {
 glyphname = dieresiscomb.case;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -204041,7 +204285,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = dotaccentcomb.case;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -204277,7 +204521,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = gravecomb.case;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -204449,7 +204693,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = acutecomb.case;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -204621,7 +204865,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = hungarumlautcomb.case;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -204861,7 +205105,7 @@ width = 600;
 },
 {
 glyphname = circumflexcomb.case;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -205049,7 +205293,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = caroncomb.case;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -205238,7 +205482,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 0;
 glyphname = brevecomb.case;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -205491,7 +205735,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 0;
 glyphname = ringcomb.case;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -205864,7 +206108,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 1;
 glyphname = tildecomb.case;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -206164,7 +206408,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = macroncomb.case;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -206336,7 +206580,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = dblgravecomb.case;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -206577,7 +206821,7 @@ width = 600;
 {
 color = 0;
 glyphname = breveinvertedcomb.case;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -206829,7 +207073,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = strokeshortcomb.case;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -206919,7 +207163,7 @@ width = 718;
 },
 {
 glyphname = strokelongcomb.case;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -207003,7 +207247,7 @@ width = 914;
 },
 {
 glyphname = slashshortcomb.case;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -209039,7 +209283,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 6;
 glyphname = caron.alt;
-lastChange = "2016-11-17 23:18:17 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -209148,7 +209392,7 @@ width = 262;
 {
 color = 6;
 glyphname = acute.case;
-lastChange = "2016-11-17 23:16:07 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -209273,7 +209517,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 6;
 glyphname = breve.case;
-lastChange = "2016-11-17 23:16:07 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -209398,7 +209642,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 6;
 glyphname = caron.case;
-lastChange = "2016-11-17 23:16:07 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -209523,7 +209767,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 6;
 glyphname = circumflex.case;
-lastChange = "2016-11-17 23:16:07 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -209648,7 +209892,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 6;
 glyphname = dieresis.case;
-lastChange = "2016-11-17 23:16:07 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -209773,7 +210017,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 6;
 glyphname = dotaccent.case;
-lastChange = "2016-11-17 23:16:07 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -209898,7 +210142,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 6;
 glyphname = grave.case;
-lastChange = "2016-11-17 23:16:07 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -210023,7 +210267,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 6;
 glyphname = hungarumlaut.case;
-lastChange = "2016-11-17 23:16:07 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -210144,7 +210388,7 @@ width = 581;
 {
 color = 6;
 glyphname = macron.case;
-lastChange = "2016-11-17 23:16:07 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -210269,7 +210513,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 6;
 glyphname = ring.case;
-lastChange = "2016-11-17 23:16:07 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -210394,7 +210638,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 6;
 glyphname = tilde.case;
-lastChange = "2016-11-17 23:16:07 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -210519,7 +210763,7 @@ com.typemytype.robofont.layerData = {
 {
 color = 0;
 glyphname = dieresiscomb.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -210592,7 +210836,7 @@ width = 600;
 {
 color = 0;
 glyphname = dotaccentcomb.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -210665,7 +210909,7 @@ width = 600;
 {
 color = 0;
 glyphname = gravecomb.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -210738,7 +210982,7 @@ width = 600;
 {
 color = 0;
 glyphname = acutecomb.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -210811,7 +211055,7 @@ width = 600;
 {
 color = 0;
 glyphname = hungarumlautcomb.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -210884,7 +211128,7 @@ width = 600;
 {
 color = 0;
 glyphname = circumflexcomb.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -210957,7 +211201,7 @@ width = 600;
 {
 color = 0;
 glyphname = caroncomb.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -211030,7 +211274,7 @@ width = 600;
 {
 color = 0;
 glyphname = brevecomb.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -211103,7 +211347,7 @@ width = 600;
 {
 color = 0;
 glyphname = ringcomb.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -211176,7 +211420,7 @@ width = 600;
 {
 color = 0;
 glyphname = tildecomb.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -211249,7 +211493,7 @@ width = 600;
 {
 color = 0;
 glyphname = macroncomb.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -211322,7 +211566,7 @@ width = 600;
 {
 color = 0;
 glyphname = dblgravecomb.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -211395,7 +211639,7 @@ width = 600;
 {
 color = 0;
 glyphname = breveinvertedcomb.sc;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 background = {
@@ -211468,7 +211712,7 @@ width = 600;
 {
 color = 9;
 glyphname = strokeshortcomb_d;
-lastChange = "2016-11-15 09:46:52 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -211548,7 +211792,7 @@ category = Mark;
 {
 color = 9;
 glyphname = strokeshortcomb_h;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -211628,7 +211872,7 @@ category = Mark;
 {
 color = 9;
 glyphname = slashcomb;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -211734,7 +211978,7 @@ category = "";
 {
 color = 9;
 glyphname = slashcomb.case;
-lastChange = "2016-11-16 20:02:10 +0000";
+lastChange = "2016-11-18 10:28:44 +0000";
 layers = (
 {
 anchors = (
