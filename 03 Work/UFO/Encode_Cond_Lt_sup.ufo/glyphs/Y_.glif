@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y" format="1">
+  <advance width="333.305963096"/>
+  <unicode hex="0059"/>
+  <outline>
+    <contour>
+      <point x="2.32263614306" y="500.239988708" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="166.74015555" y="513.759988403" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="166.682039549" y="0.0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="182.745436179" y="0.0" type="line"/>
+      <point x="182.745436179" y="241.483418469" type="line"/>
+      <point x="175.541723891" y="213.626811426" type="line"/>
+      <point x="339.492979345" y="500.239988708" type="line"/>
+      <point x="305.391577979" y="500.239988708" type="line"/>
+      <point x="161.308647318" y="249.844186172" type="line"/>
+      <point x="172.752823795" y="249.844186172" type="line"/>
+      <point x="26.8983570492" y="500.239988708" type="line"/>
+      <point x="-8.80090037022" y="500.239988708" type="line"/>
+      <point x="157.822355206" y="213.626811426" type="line"/>
+      <point x="150.618642918" y="241.694330457" type="line"/>
+      <point x="150.618642918" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

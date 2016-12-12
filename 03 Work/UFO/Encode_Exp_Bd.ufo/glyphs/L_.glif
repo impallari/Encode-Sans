@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="596"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="593" y="0" type="line"/>
+      <point x="593" y="172" type="line"/>
+      <point x="284" y="172" type="line"/>
+      <point x="284" y="595" type="line"/>
+      <point x="48" y="595" type="line"/>
+      <point x="48" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="166" y="611" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="461" y="386" type="move" name="periodcentered"/>
+    </contour>
+    <contour>
+      <point x="166" y="350" type="move" name="slash"/>
+    </contour>
+    <contour>
+      <point x="404" y="595" type="move" name="caronalt"/>
+    </contour>
+    <contour>
+      <point x="320" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-12-08 23:07:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>

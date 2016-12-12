@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="301.502481681"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="195.899692887" y="500.239988708" type="move" name="caronalt"/>
+    </contour>
+    <contour>
+      <point x="68.8634550861" y="513.759988403" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="218.293057873" y="265.830233845" type="move" name="periodcentered"/>
+    </contour>
+    <contour>
+      <point x="68.8634550861" y="264.424153928" type="move" name="slash"/>
+    </contour>
+    <contour>
+      <point x="176.67198005" y="0.0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="300.16648162" y="0.0" type="line"/>
+      <point x="300.16648162" y="32.1505589133" type="line"/>
+      <point x="84.6943877113" y="32.1505589133" type="line"/>
+      <point x="84.6943877113" y="500.239988708" type="line"/>
+      <point x="52.56759445" y="500.239988708" type="line"/>
+      <point x="52.56759445" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

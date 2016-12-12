@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashshortcomb" format="1">
+  <advance width="269.600006104"/>
+  <outline>
+    <contour>
+      <point x="134.800003052" y="261.611994095" type="move" name="_slash"/>
+    </contour>
+    <contour>
+      <point x="212.423910672" y="302.758761212" type="line"/>
+      <point x="197.811590392" y="324.687524592" type="line"/>
+      <point x="58.433779463" y="220.465226977" type="line"/>
+      <point x="73.0460997424" y="198.536463597" type="line"/>
+    </contour>
+  </outline>
+</glyph>

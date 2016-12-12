@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashcomb" format="1">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="159" y="47" type="line"/>
+      <point x="166" y="59" type="line"/>
+      <point x="370" y="361" type="line"/>
+      <point x="378" y="373" type="line"/>
+      <point x="415" y="427" type="line"/>
+      <point x="390" y="442" type="line"/>
+      <point x="353" y="388" type="line"/>
+      <point x="346" y="375" type="line"/>
+      <point x="142" y="73" type="line"/>
+      <point x="135" y="62" type="line"/>
+      <point x="98" y="7" type="line"/>
+      <point x="123" y="-8" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="217" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-12-08 23:03:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

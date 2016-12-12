@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashcomb" format="1">
+  <advance width="370.027793475"/>
+  <outline>
+    <contour>
+      <point x="185.013896738" y="186.308975743" type="move" name="_center"/>
+    </contour>
+    <contour>
+      <point x="112.592755036" y="30.1746113498" type="line"/>
+      <point x="143.281001056" y="76.4434298413" type="line"/>
+      <point x="278.334535775" y="256.13166291" type="line"/>
+      <point x="316.96139151" y="294.822521675" type="line"/>
+      <point x="368.273498043" y="358.443583889" type="line"/>
+      <point x="308.747144972" y="406.064402349" type="line"/>
+      <point x="257.435038439" y="342.443340136" type="line"/>
+      <point x="226.74679242" y="296.174521645" type="line"/>
+      <point x="91.6932577003" y="116.486288576" type="line"/>
+      <point x="53.0664019651" y="77.7954298108" type="line"/>
+      <point x="1.75429543207" y="14.1743675975" type="line"/>
+      <point x="61.2806485032" y="-33.4464508634" type="line"/>
+    </contour>
+  </outline>
+</glyph>

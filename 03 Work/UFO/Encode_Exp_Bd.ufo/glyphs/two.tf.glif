@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.tf" format="1">
+  <advance width="634"/>
+  <outline>
+    <contour>
+      <point x="587" y="0" type="line"/>
+      <point x="587" y="172" type="line"/>
+      <point x="312" y="172" type="line"/>
+      <point x="304" y="116" type="line"/>
+      <point x="454" y="242" type="line" smooth="yes"/>
+      <point x="526" y="302"/>
+      <point x="558" y="357"/>
+      <point x="558" y="417" type="curve" smooth="yes"/>
+      <point x="558" y="542"/>
+      <point x="462" y="603"/>
+      <point x="232" y="603" type="curve" smooth="yes"/>
+      <point x="170" y="603"/>
+      <point x="81" y="590"/>
+      <point x="36" y="579" type="curve"/>
+      <point x="36" y="407" type="line"/>
+      <point x="78" y="420"/>
+      <point x="149" y="434"/>
+      <point x="213" y="434" type="curve" smooth="yes"/>
+      <point x="303" y="434"/>
+      <point x="327" y="419"/>
+      <point x="327" y="392" type="curve" smooth="yes"/>
+      <point x="327" y="371"/>
+      <point x="307" y="349"/>
+      <point x="257" y="305" type="curve" smooth="yes"/>
+      <point x="44" y="113" type="line"/>
+      <point x="44" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-12-08 23:07:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>
