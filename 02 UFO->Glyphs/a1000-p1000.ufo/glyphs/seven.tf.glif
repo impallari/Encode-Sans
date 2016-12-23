@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.tf" format="1">
+  <advance width="670"/>
+  <outline>
+    <contour>
+      <point x="311" y="-28" type="line"/>
+      <point x="106" y="0" type="line"/>
+      <point x="106" y="21" type="line"/>
+      <point x="386" y="543" type="line"/>
+      <point x="35" y="543" type="line"/>
+      <point x="25" y="722" type="line"/>
+      <point x="45" y="740" type="line"/>
+      <point x="623" y="740" type="line"/>
+      <point x="656" y="617" type="line"/>
+      <point x="656" y="608" type="line"/>
+      <point x="365" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="1">
+  <advance width="383"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="223" y="415" type="line"/>
+      <point x="204" y="437" type="line"/>
+      <point x="-2" y="251" type="line"/>
+      <point x="16" y="229" type="line"/>
+    </contour>
+    <contour>
+      <point x="382" y="0" type="line"/>
+      <point x="382" y="34" type="line"/>
+      <point x="104" y="34" type="line"/>
+      <point x="104" y="595" type="line"/>
+      <point x="70" y="595" type="line"/>
+      <point x="70" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="595" type="move" name="caronalt"/>
+    </contour>
+    <contour>
+      <point x="87" y="611" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="276" y="314" type="move" name="periodcentered"/>
+    </contour>
+    <contour>
+      <point x="87" y="313" type="move" name="_slash"/>
+    </contour>
+    <contour>
+      <point x="87" y="313" type="move" name="slash"/>
+    </contour>
+    <contour>
+      <point x="226" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-12-08 23:04:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>

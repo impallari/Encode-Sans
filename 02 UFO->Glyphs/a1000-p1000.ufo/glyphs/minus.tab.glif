@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus.tab" format="1">
+  <advance width="670"/>
+  <outline>
+    <contour>
+      <point x="86" y="303" type="line"/>
+      <point x="583" y="303" type="line"/>
+      <point x="583" y="437" type="line"/>
+      <point x="86" y="437" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

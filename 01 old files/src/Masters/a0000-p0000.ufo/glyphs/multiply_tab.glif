@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply.tab" format="1">
+  <advance width="480"/>
+  <outline>
+    <contour>
+      <point x="96" y="214" type="line"/>
+      <point x="239" y="347" type="line"/>
+      <point x="382" y="214" type="line"/>
+      <point x="407" y="238" type="line"/>
+      <point x="264" y="371" type="line"/>
+      <point x="407" y="504" type="line"/>
+      <point x="382" y="528" type="line"/>
+      <point x="239" y="394" type="line"/>
+      <point x="96" y="528" type="line"/>
+      <point x="72" y="504" type="line"/>
+      <point x="214" y="371" type="line"/>
+      <point x="72" y="238" type="line"/>
+    </contour>
+  </outline>
+</glyph>

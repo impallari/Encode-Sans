@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F_F_L.sc" format="1">
+  <advance width="1929"/>
+  <outline>
+    <component base="F.sc"/>
+    <component base="F.sc" xOffset="662"/>
+    <component base="L.sc" xOffset="1324"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:39:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

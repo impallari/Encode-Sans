@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h" format="1">
+  <advance width="739"/>
+  <unicode hex="0068"/>
+  <outline>
+    <contour>
+      <point x="55" y="0" type="line"/>
+      <point x="285" y="0" type="line"/>
+      <point x="285" y="355" type="line"/>
+      <point x="331" y="368"/>
+      <point x="381" y="377"/>
+      <point x="409" y="377" type="curve" smooth="yes"/>
+      <point x="443" y="377"/>
+      <point x="457" y="361"/>
+      <point x="457" y="321" type="curve" smooth="yes"/>
+      <point x="457" y="0" type="line"/>
+      <point x="687" y="0" type="line"/>
+      <point x="687" y="396" type="line" smooth="yes"/>
+      <point x="687" y="491"/>
+      <point x="621" y="550"/>
+      <point x="516" y="550" type="curve" smooth="yes"/>
+      <point x="450" y="550"/>
+      <point x="353" y="515"/>
+      <point x="250" y="469" type="curve"/>
+      <point x="285" y="438" type="line"/>
+      <point x="285" y="808" type="line"/>
+      <point x="55" y="808" type="line"/>
+    </contour>
+    <contour>
+      <point x="369" y="792" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="369" y="-110" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

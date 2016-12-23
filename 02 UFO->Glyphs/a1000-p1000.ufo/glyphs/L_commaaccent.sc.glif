@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcommaaccent.sc" format="1">
+  <advance width="605"/>
+  <outline>
+    <contour>
+      <point x="63" y="0" type="line"/>
+      <point x="588" y="0" type="line"/>
+      <point x="588" y="164" type="line"/>
+      <point x="286" y="164" type="line"/>
+      <point x="286" y="577" type="line"/>
+      <point x="63" y="577" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="-172" type="line"/>
+      <point x="306" y="-172" type="line"/>
+      <point x="402" y="-55" type="line"/>
+      <point x="178" y="-55" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

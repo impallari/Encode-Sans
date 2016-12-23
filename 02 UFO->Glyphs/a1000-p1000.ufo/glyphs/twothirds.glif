@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twothirds" format="1">
+  <advance width="1455"/>
+  <unicode hex="2154"/>
+  <outline>
+    <component base="fraction"/>
+    <component base="two.numerator" xOffset="9"/>
+    <component base="three.denominator" xOffset="919"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:39:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

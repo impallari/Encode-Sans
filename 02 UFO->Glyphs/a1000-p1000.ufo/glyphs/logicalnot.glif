@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="1">
+  <advance width="939"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="42" y="266" type="line"/>
+      <point x="652" y="266" type="line"/>
+      <point x="652" y="87" type="line"/>
+      <point x="876" y="87" type="line"/>
+      <point x="876" y="449" type="line"/>
+      <point x="42" y="449" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

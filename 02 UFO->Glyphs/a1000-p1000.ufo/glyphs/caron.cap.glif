@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.cap" format="1">
+  <advance width="530"/>
+  <outline>
+    <contour>
+      <point x="30" y="878" type="line"/>
+      <point x="262" y="797" type="line"/>
+      <point x="500" y="878" type="line"/>
+      <point x="500" y="1027" type="line"/>
+      <point x="265" y="945" type="line"/>
+      <point x="30" y="1027" type="line"/>
+    </contour>
+    <contour>
+      <point x="265" y="885" type="move" name="_topUC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R" format="1">
+  <advance width="793"/>
+  <unicode hex="0052"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="300" y="221" type="line"/>
+      <point x="329" y="221" type="line" smooth="yes"/>
+      <point x="613" y="221"/>
+      <point x="757" y="311"/>
+      <point x="757" y="487" type="curve" smooth="yes"/>
+      <point x="757" y="672"/>
+      <point x="628" y="750"/>
+      <point x="325" y="750" type="curve" smooth="yes"/>
+      <point x="246" y="750"/>
+      <point x="160" y="745"/>
+      <point x="65" y="735" type="curve"/>
+    </contour>
+    <contour>
+      <point x="371" y="398" type="curve" smooth="yes"/>
+      <point x="331" y="398"/>
+      <point x="316" y="399"/>
+      <point x="300" y="404" type="curve"/>
+      <point x="300" y="568" type="line"/>
+      <point x="321" y="570"/>
+      <point x="360" y="572"/>
+      <point x="383" y="572" type="curve" smooth="yes"/>
+      <point x="491" y="572"/>
+      <point x="518" y="554"/>
+      <point x="518" y="486" type="curve" smooth="yes"/>
+      <point x="518" y="418"/>
+      <point x="486" y="398"/>
+    </contour>
+    <contour>
+      <point x="530" y="0" type="line"/>
+      <point x="799" y="0" type="line"/>
+      <point x="524" y="391" type="line"/>
+      <point x="376" y="276" type="line"/>
+    </contour>
+    <contour>
+      <point x="398" y="885" type="move" name="topUC"/>
+    </contour>
+    <contour>
+      <point x="408" y="-110" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

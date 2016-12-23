@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x" format="1">
+  <advance width="697"/>
+  <unicode hex="0078"/>
+  <outline>
+    <contour>
+      <point x="-1" y="0" type="line"/>
+      <point x="243" y="0" type="line"/>
+      <point x="312" y="92" type="line"/>
+      <point x="343" y="151" type="line"/>
+      <point x="353" y="151" type="line"/>
+      <point x="384" y="92" type="line"/>
+      <point x="454" y="0" type="line"/>
+      <point x="698" y="0" type="line"/>
+      <point x="698" y="20" type="line"/>
+      <point x="503" y="279" type="line"/>
+      <point x="690" y="529" type="line"/>
+      <point x="690" y="540" type="line"/>
+      <point x="448" y="540" type="line"/>
+      <point x="385" y="454" type="line"/>
+      <point x="353" y="402" type="line"/>
+      <point x="343" y="402" type="line"/>
+      <point x="312" y="453" type="line"/>
+      <point x="249" y="540" type="line"/>
+      <point x="7" y="540" type="line"/>
+      <point x="7" y="529" type="line"/>
+      <point x="194" y="279" type="line"/>
+      <point x="-1" y="20" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

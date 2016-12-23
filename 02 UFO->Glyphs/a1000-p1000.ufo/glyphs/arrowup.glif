@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowup" format="1">
+  <advance width="712"/>
+  <unicode hex="2191"/>
+  <outline>
+    <contour>
+      <point x="272" y="76" type="line"/>
+      <point x="440" y="76" type="line"/>
+      <point x="440" y="478" type="line"/>
+      <point x="576" y="320" type="line"/>
+      <point x="691" y="435" type="line"/>
+      <point x="388" y="739" type="line"/>
+      <point x="324" y="739" type="line"/>
+      <point x="21" y="435" type="line"/>
+      <point x="136" y="320" type="line"/>
+      <point x="272" y="478" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

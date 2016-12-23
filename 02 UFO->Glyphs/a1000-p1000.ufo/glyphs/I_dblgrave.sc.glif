@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idblgrave.sc" format="1">
+  <advance width="349"/>
+  <outline>
+    <contour>
+      <point x="63" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="577" type="line"/>
+      <point x="63" y="577" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="640" type="line"/>
+      <point x="96" y="804" type="line"/>
+      <point x="-125" y="804" type="line"/>
+      <point x="-3" y="633" type="line"/>
+    </contour>
+    <contour>
+      <point x="387" y="640" type="line"/>
+      <point x="332" y="804" type="line"/>
+      <point x="111" y="804" type="line"/>
+      <point x="233" y="633" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

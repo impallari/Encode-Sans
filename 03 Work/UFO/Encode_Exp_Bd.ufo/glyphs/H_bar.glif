@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="782"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="284" y="0" type="line"/>
+      <point x="284" y="209" type="line"/>
+      <point x="498" y="209" type="line"/>
+      <point x="498" y="0" type="line"/>
+      <point x="734" y="0" type="line"/>
+      <point x="734" y="595" type="line"/>
+      <point x="498" y="595" type="line"/>
+      <point x="498" y="397" type="line"/>
+      <point x="284" y="397" type="line"/>
+      <point x="284" y="595" type="line"/>
+      <point x="48" y="595" type="line"/>
+      <point x="48" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="779" y="432" type="line"/>
+      <point x="779" y="563" type="line"/>
+      <point x="2" y="563" type="line"/>
+      <point x="2" y="432" type="line"/>
+    </contour>
+    <contour>
+      <point x="392" y="498" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="392" y="611" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="18" y="595" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="392" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-12-08 23:07:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="1">
+  <advance width="589"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="283" y="-120" type="line"/>
+      <point x="419" y="-120" type="line"/>
+      <point x="419" y="78" type="line"/>
+      <point x="283" y="66" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="456" type="line"/>
+      <point x="419" y="470" type="line"/>
+      <point x="419" y="660" type="line"/>
+      <point x="283" y="660" type="line"/>
+    </contour>
+    <component base="c" xOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-31 12:33:09 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,146 @@
+@onum2 = [ zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf ];
+
+@subs1 = [ zero one two three four five six seven eight nine ];
+
+@c2sc2 = [ A.sc AE.sc AEacute.sc Aacute.sc Abreve.sc Acircumflex.sc Adblgrave.sc Adieresis.sc Agrave.sc Ainvertedbreve.sc Amacron.sc Aogonek.sc Aring.sc Aringacute.sc Atilde.sc B.sc C.sc Cacute.sc Ccaron.sc Ccedilla.sc Ccircumflex.sc Cdotaccent.sc D.sc Dcaron.sc Dcroat.sc Ddotbelow.sc E.sc Eacute.sc Ebreve.sc Ecaron.sc Ecircumflex.sc Edblgrave.sc Edieresis.sc Edotaccent.sc Edotbelow.sc Egrave.sc Einvertedbreve.sc Emacron.sc Eng.sc Eogonek.sc Eth.sc Etilde.sc F.sc G.sc Gacute.sc Gbreve.sc Gcircumflex.sc Gcommaaccent.sc Gdotaccent.sc H.sc Hbar.sc Hcircumflex.sc Hdotbelow.sc I.sc Iacute.sc Ibreve.sc Icircumflex.sc Idblgrave.sc Idieresis.sc Idotaccent.sc Idotbelow.sc Igrave.sc Iinvertedbreve.sc Imacron.sc Iogonek.sc Itilde.sc J.sc Jcircumflex.sc K.sc Kcommaaccent.sc L.sc Lacute.sc Lcaron.sc Lcommaaccent.sc Ldot.sc Lslash.sc M.sc N.sc Nacute.sc Ncaron.sc Ncommaaccent.sc Ndotaccent.sc Ntilde.sc O.sc OE.sc Oacute.sc Obreve.sc Ocircumflex.sc Odblgrave.sc Odieresis.sc Odotbelow.sc Ograve.sc Ohungarumlaut.sc Oinvertedbreve.sc Omacron.sc Oogonek.sc Oslash.sc Oslashacute.sc Otilde.sc P.sc Q.sc R.sc Racute.sc Rcaron.sc Rcommaaccent.sc Rdblgrave.sc Rdotbelow.sc Rinvertedbreve.sc S.sc Sacute.sc Scaron.sc Schwa.sc Scircumflex.sc Sdotbelow.sc T.sc Tbar.sc Tcaron.sc Tdotbelow.sc Thorn.sc U.sc Uacute.sc Ubreve.sc Ucircumflex.sc Udblgrave.sc Udieresis.sc Udotbelow.sc Ugrave.sc Uhungarumlaut.sc Uinvertedbreve.sc Umacron.sc Uogonek.sc Uring.sc Utilde.sc V.sc W.sc Wacute.sc Wcircumflex.sc Wdieresis.sc Wgrave.sc X.sc Y.sc Yacute.sc Ycircumflex.sc Ydieresis.sc Ygrave.sc Ytilde.sc Z.sc Zacute.sc Zcaron.sc Zdotaccent.sc Zdotbelow.sc uni015E.sc uni0162.sc uni0218.sc uni021A.sc ];
+
+@smcp1 = [ a ae aeacute aacute abreve acircumflex adblgrave adieresis agrave ainvertedbreve amacron aogonek aring aringacute atilde b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat ddotbelow e eacute ebreve ecaron ecircumflex edblgrave edieresis edotaccent edotbelow egrave einvertedbreve emacron eng eogonek eth etilde f g gacute gbreve gcircumflex gcommaaccent gdotaccent h hbar hcircumflex hdotbelow i iacute ibreve icircumflex idblgrave idieresis idotbelow igrave iinvertedbreve imacron iogonek itilde j jcircumflex k kcommaaccent l lacute lcaron lcommaaccent ldot lslash m n nacute ncaron ncommaaccent ndotaccent ntilde o oe oacute obreve ocircumflex odblgrave odieresis odotbelow ograve ohungarumlaut oinvertedbreve omacron oogonek oslash oslashacute otilde p q r racute rcaron rcommaaccent rdblgrave rdotbelow rinvertedbreve s sacute scaron schwa scircumflex sdotbelow t tbar tcaron tdotbelow thorn u uacute ubreve ucircumflex udblgrave udieresis udotbelow ugrave uhungarumlaut uinvertedbreve umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave ytilde z zacute zcaron zdotaccent zdotbelow uni015F uni0163 uni0219 uni021B f_b f_f f_f_b f_f_h f_f_i f_f_j f_f_k f_f_l f_f_t f_h f_i f_j f_k f_l f_t germandbls ];
+
+@pnum1 = [ zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf Euro.tab bar.tab cent.tab colon.tab comma.tab degree.tab divide.tab dollar.tab equal.tab greater.tab less.tab minus.tab multiply.tab numbersign.tab paragraph.tab percent.tab period.tab periodcentered.tab plus.tab plusminus.tab quotedbl.tab quotesingle.tab section.tab semicolon.tab slash.tab space.tab sterling.tab underscore.tab yen.tab ];
+
+@smcp2 = [ A.sc AE.sc AEacute.sc Aacute.sc Abreve.sc Acircumflex.sc Adblgrave.sc Adieresis.sc Agrave.sc Ainvertedbreve.sc Amacron.sc Aogonek.sc Aring.sc Aringacute.sc Atilde.sc B.sc C.sc Cacute.sc Ccaron.sc Ccedilla.sc Ccircumflex.sc Cdotaccent.sc D.sc Dcaron.sc Dcroat.sc Ddotbelow.sc E.sc Eacute.sc Ebreve.sc Ecaron.sc Ecircumflex.sc Edblgrave.sc Edieresis.sc Edotaccent.sc Edotbelow.sc Egrave.sc Einvertedbreve.sc Emacron.sc Eng.sc Eogonek.sc Eth.sc Etilde.sc F.sc G.sc Gacute.sc Gbreve.sc Gcircumflex.sc Gcommaaccent.sc Gdotaccent.sc H.sc Hbar.sc Hcircumflex.sc Hdotbelow.sc I.sc Iacute.sc Ibreve.sc Icircumflex.sc Idblgrave.sc Idieresis.sc Idotbelow.sc Igrave.sc Iinvertedbreve.sc Imacron.sc Iogonek.sc Itilde.sc J.sc Jcircumflex.sc K.sc Kcommaaccent.sc L.sc Lacute.sc Lcaron.sc Lcommaaccent.sc Ldot.sc Lslash.sc M.sc N.sc Nacute.sc Ncaron.sc Ncommaaccent.sc Ndotaccent.sc Ntilde.sc O.sc OE.sc Oacute.sc Obreve.sc Ocircumflex.sc Odblgrave.sc Odieresis.sc Odotbelow.sc Ograve.sc Ohungarumlaut.sc Oinvertedbreve.sc Omacron.sc Oogonek.sc Oslash.sc Oslashacute.sc Otilde.sc P.sc Q.sc R.sc Racute.sc Rcaron.sc Rcommaaccent.sc Rdblgrave.sc Rdotbelow.sc Rinvertedbreve.sc S.sc Sacute.sc Scaron.sc Schwa.sc Scircumflex.sc Sdotbelow.sc T.sc Tbar.sc Tcaron.sc Tdotbelow.sc Thorn.sc U.sc Uacute.sc Ubreve.sc Ucircumflex.sc Udblgrave.sc Udieresis.sc Udotbelow.sc Ugrave.sc Uhungarumlaut.sc Uinvertedbreve.sc Umacron.sc Uogonek.sc Uring.sc Utilde.sc V.sc W.sc Wacute.sc Wcircumflex.sc Wdieresis.sc Wgrave.sc X.sc Y.sc Yacute.sc Ycircumflex.sc Ydieresis.sc Ygrave.sc Ytilde.sc Z.sc Zacute.sc Zcaron.sc Zdotaccent.sc Zdotbelow.sc uni015E.sc uni0162.sc uni0218.sc uni021A.sc F_B.sc F_F.sc F_F_B.sc F_F_H.sc F_F_I.sc F_F_J.sc F_F_K.sc F_F_L.sc F_F_T.sc F_H.sc F_I.sc F_J.sc F_K.sc F_L.sc F_T.sc germandbls.sc ];
+
+@pnum2 = [ zero one two three four five six seven eight nine zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf Euro bar cent colon comma degree divide dollar equal greater less minus multiply numbersign paragraph percent period periodcentered plus plusminus quotedbl quotesingle section semicolon slash space sterling underscore yen ];
+
+@lnum1 = [ zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf ];
+
+@onum1 = [ zero one two three four five six seven eight nine zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf ];
+
+@c2sc1 = [ A AE AEacute Aacute Abreve Acircumflex Adblgrave Adieresis Agrave Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotbelow E Eacute Ebreve Ecaron Ecircumflex Edblgrave Edieresis Edotaccent Edotbelow Egrave Einvertedbreve Emacron Eng Eogonek Eth Etilde F G Gacute Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex Hdotbelow I Iacute Ibreve Icircumflex Idblgrave Idieresis Idotaccent Idotbelow Igrave Iinvertedbreve Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ndotaccent Ntilde O OE Oacute Obreve Ocircumflex Odblgrave Odieresis Odotbelow Ograve Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde P Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve S Sacute Scaron Schwa Scircumflex Sdotbelow T Tbar Tcaron Tdotbelow Thorn U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow uni015E uni0162 uni0218 uni021A ];
+
+# Prefix: Prefix
+languagesystem DFLT dflt;
+
+feature sups {
+	sub zero by zerosuperior;
+	sub one by onesuperior;
+	sub two by twosuperior;
+	sub three by threesuperior;
+	sub four by foursuperior;
+	sub five by fivesuperior;
+	sub six by sixsuperior;
+	sub seven by sevensuperior;
+	sub eight by eightsuperior;
+	sub nine by ninesuperior;
+} sups;
+
+feature sinf {
+	sub zero by zeroinferior;
+	sub one by oneinferior;
+	sub two by twoinferior;
+	sub three by threeinferior;
+	sub four by fourinferior;
+	sub five by fiveinferior;
+	sub six by sixinferior;
+	sub seven by seveninferior;
+	sub eight by eightinferior;
+	sub nine by nineinferior;
+} sinf;
+
+feature numr {
+ 
+	sub zero by zero.numerator;
+	sub one by one.numerator;
+	sub two by two.numerator;
+	sub three by three.numerator;
+	sub four by four.numerator;
+	sub five by five.numerator;
+	sub six by six.numerator;
+	sub seven by seven.numerator;
+	sub eight by eight.numerator;
+	sub nine by nine.numerator;
+} numr;
+
+feature dnom {
+ 
+	sub zero by zero.denominator;
+	sub one by one.denominator;
+	sub two by two.denominator;
+	sub three by three.denominator;
+	sub four by four.denominator;
+	sub five by five.denominator;
+	sub six by six.denominator;
+	sub seven by seven.denominator;
+	sub eight by eight.denominator;
+	sub nine by nine.denominator;
+} dnom;
+
+feature frac {
+	sub [one one.tf one.osf one.tosf] [slash fraction] [two two.tf two.osf two.tosf] by onehalf;
+	sub [one one.tf one.osf one.tosf] [slash fraction] [three three.tf three.osf three.tosf] by onethird;
+	sub [one one.tf one.osf one.tosf] [slash fraction] [four four.tf four.osf four.tosf] by onequarter;
+	sub [one one.tf one.osf one.tosf] [slash fraction] [eight eight.tf eight.osf eight.tosf] by oneeighth;
+	sub [two two.tf two.osf two.tosf] [slash fraction] [three three.tf three.osf three.tosf] by twothirds;
+	sub [three three.tf three.osf three.tosf] [slash fraction] [four four.tf four.osf four.tosf] by threequarters;
+	sub [three three.tf three.osf three.tosf] [slash fraction] [eight eight.tf eight.osf eight.tosf] by threeeighths;
+	sub [five five.tf five.osf five.tosf] [slash fraction] [eight eight.tf eight.osf eight.tosf] by fiveeighths;
+	sub [seven seven.tf seven.osf seven.tosf] [slash fraction] [eight eight.tf eight.osf eight.tosf] by seveneighths;
+} frac;
+
+feature ordn {
+	sub [zero one two three four five six seven eight nine] [A a]' by [ordfeminine ordfeminine];
+	sub [zero one two three four five six seven eight nine] [O o]' by [ordmasculine ordmasculine];
+	sub [zero one two three four five six seven eight nine] period [A a]' by [ordfeminine ordfeminine];
+	sub [zero one two three four five six seven eight nine] period [O o]' by [ordmasculine ordmasculine];
+} ordn;
+
+feature lnum {
+	sub @lnum1 by @subs1;
+} lnum;
+
+feature pnum {
+	sub @pnum1 by @pnum2;
+} pnum;
+
+feature tnum {
+	sub @pnum2 by @pnum1;
+} tnum;
+
+feature onum {
+	sub @onum1 by @onum2;
+} onum;
+
+feature c2sc {
+    sub @c2sc1 by @c2sc2; 
+} c2sc;
+
+feature smcp {
+    sub @smcp1 by @smcp2;    
+} smcp;
+
+feature liga {
+	sub f f b by f_f_b;
+	sub f f h by f_f_h;
+	sub f f i by f_f_i;
+	sub f f j by f_f_j;
+	sub f f k by f_f_k;
+	sub f f l by f_f_l;
+	sub f f t by f_f_t;
+	sub f b by f_b;
+	sub f f by f_f;
+	sub f h by f_h;
+	sub f i by f_i;
+	sub f j by f_j;
+	sub f k by f_k;
+	sub f l by f_l;
+	sub f t by f_t;
+} liga;
+
+feature salt {
+    sub currency by currency.ss01;
+} salt;
+
+feature ss01 {
+    sub currency by currency.ss01;
+} ss01;
+

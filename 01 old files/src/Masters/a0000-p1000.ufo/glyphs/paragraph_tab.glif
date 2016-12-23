@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="paragraph.tab" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="355" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+      <point x="272" y="265" type="line"/>
+      <point x="264" y="265"/>
+      <point x="257" y="265"/>
+      <point x="249" y="265" type="curve" smooth="yes"/>
+      <point x="113" y="265"/>
+      <point x="27" y="326"/>
+      <point x="27" y="505" type="curve" smooth="yes"/>
+      <point x="27" y="684"/>
+      <point x="111" y="745"/>
+      <point x="246" y="745" type="curve" smooth="yes"/>
+      <point x="276" y="745"/>
+      <point x="319" y="741"/>
+      <point x="355" y="735" type="curve"/>
+    </contour>
+    <contour>
+      <point x="526" y="0" type="line"/>
+      <point x="413" y="0" type="line"/>
+      <point x="413" y="735" type="line"/>
+      <point x="526" y="735" type="line"/>
+    </contour>
+  </outline>
+</glyph>
