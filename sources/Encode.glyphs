@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name \"Encode Sans\".";
+copyright = "Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name \"Encode\".";
 customParameters = (
 {
 name = note;
@@ -37,6 +37,14 @@ value = 1;
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = vendorID;
+value = IMPA;
 }
 );
 date = "2016-12-23 10:14:22 +0000";
@@ -1311,19 +1319,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2060;
+value = 2758;
 },
 {
 name = winDescent;
-value = 440;
-},
-{
-name = underlineThickness;
-value = 110;
-},
-{
-name = underlinePosition;
-value = -222;
+value = 520;
 }
 );
 descender = -440;
@@ -1425,19 +1425,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2060;
+value = 2758;
 },
 {
 name = winDescent;
-value = 440;
-},
-{
-name = underlineThickness;
-value = 110;
-},
-{
-name = underlinePosition;
-value = -222;
+value = 520;
 }
 );
 descender = -440;
@@ -1529,19 +1521,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2060;
+value = 2758;
 },
 {
 name = winDescent;
-value = 440;
-},
-{
-name = underlineThickness;
-value = 110;
-},
-{
-name = underlinePosition;
-value = -222;
+value = 520;
 }
 );
 descender = -440;
@@ -1633,19 +1617,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2060;
+value = 2758;
 },
 {
 name = winDescent;
-value = 440;
-},
-{
-name = underlineThickness;
-value = 110;
-},
-{
-name = underlinePosition;
-value = -222;
+value = 520;
 }
 );
 descender = -440;
