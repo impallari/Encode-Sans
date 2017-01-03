@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="f_j" format="1">
-  <advance width="499"/>
-  <outline>
-    <component base="f.calt"/>
-    <component base="j" xOffset="296"/>
-  </outline>
-</glyph>

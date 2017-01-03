@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="F_L.sc" format="1">
-  <advance width="742"/>
-  <outline>
-    <component base="F.sc"/>
-    <component base="L.sc" xOffset="393"/>
-  </outline>
-</glyph>
